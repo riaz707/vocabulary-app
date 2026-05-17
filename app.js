@@ -1,92 +1,65 @@
-/* =========================
-📄 FULL PREMIUM APP JS
-========================= */
+let words = [];
 
-/* WORD DATA */
-
-let words = [
-
-    {
-        word: "festival",
-        pronunciation: "ফেস্টিভ্যাল",
-        bangla: "উৎসব",
-        category: "Noun",
-        sentence: "Eid is the biggest festival for Muslims.",
-        sentenceBangla: "ঈদ মুসলমানদের জন্য সবচেয়ে বড় উৎসব।"
-    },
-
-    {
-        word: "fetch",
-        pronunciation: "ফেচ",
-        bangla: "নিয়ে আসা",
-        category: "Verb",
-        sentence: "Please fetch me a glass of water.",
-        sentenceBangla: "অনুগ্রহ করে আমাকে এক গ্লাস পানি এনে দিন।"
-    },
-
-    {
-        word: "fever",
-        pronunciation: "ফিভার",
-        bangla: "জ্বর",
-        category: "Noun",
-        sentence: "He is staying in bed with a high fever.",
-        sentenceBangla: "সে তীব্র জ্বর নিয়ে বিছানায় পড়ে আছে।"
-    },
-
-    {
-        word: "few",
-        pronunciation: "ফিউ",
-        bangla: "অল্প, কয়েকটি",
-        category: "Adjective",
-        sentence: "I have a few close friends.",
-        sentenceBangla: "আমার অল্প কয়েকজন ঘনিষ্ঠ বন্ধু আছে।"
-    },
-
-    {
-        word: "flower",
-        pronunciation: "ফ্লাওয়ার",
-        bangla: "ফুল",
-        category: "Noun",
-        sentence: "This flower smells very nice.",
-        sentenceBangla: "এই ফুলটির গন্ধ খুব সুন্দর।"
-    },
-
-    {
-        word: "freedom",
-        pronunciation: "ফ্রিডম",
-        bangla: "স্বাধীনতা",
-        category: "Noun",
-        sentence: "Everyone loves freedom.",
-        sentenceBangla: "সবাই স্বাধীনতা ভালোবাসে।"
-    }
-
-];
-
-/* =========================
-VARIABLES
-========================= */
+let filteredWords = [];
 
 let favorites =
-    JSON.parse(localStorage.getItem("favorites")) || [];
+    JSON.parse(
+        localStorage.getItem("favorites")
+    ) || [];
 
 let currentQuizWord = null;
 
-let quizScore = 0;
+let currentIndex = 0;
 
-/* =========================
+const wordsPerLoad = 20;
+
+/*
+========================
+LOAD WORDS
+========================
+*/
+
+async function loadWords() {
+
+    try {
+
+        const response =
+            await fetch("words.json");
+
+        words =
+            await response.json();
+
+        filteredWords = words;
+
+        populateCategories();
+
+        showWords(words);
+
+    } catch (error) {
+
+        console.log(error);
+    }
+}
+
+/*
+========================
 CATEGORY
-========================= */
+========================
+*/
 
 function populateCategories() {
 
     const select =
-        document.getElementById("categoryFilter");
-
-    select.innerHTML =
-        `<option value="all">All Categories</option>`;
+        document.getElementById(
+            "categoryFilter"
+        );
 
     const categories = [
-        ...new Set(words.map(w => w.category))
+
+        ...new Set(
+            words.map(w => w.category)
+        )
+
     ];
 
     categories.forEach(category => {
@@ -102,241 +75,174 @@ function populateCategories() {
     });
 }
 
-/* =========================
+/*
+========================
 SHOW WORDS
-========================= */
+========================
+*/
 
-function showWords(data) {
+function showWords(data, reset = true) {
 
     const container =
-        document.getElementById("wordContainer");
+        document.getElementById(
+            "wordContainer"
+        );
 
-    container.innerHTML = "";
+    if (reset) {
+
+        container.innerHTML = "";
+
+        currentIndex = 0;
+    }
 
     if (data.length === 0) {
 
         container.innerHTML = `
-      <div class="text-center text-red-500 text-xl font-bold col-span-full">
-        No words found 😢
+
+      <div class="text-center col-span-full">
+
+        <h2 class="text-2xl font-bold">
+
+          No Words Found 😢
+
+        </h2>
+
       </div>
     `;
 
         return;
     }
 
-    data.forEach(word => {
+    const nextWords = data.slice(
+
+        currentIndex,
+
+        currentIndex + wordsPerLoad
+    );
+
+    const cards = nextWords.map(word => {
 
         const isFav =
             favorites.includes(word.word);
 
-        container.innerHTML += `
+        return `
 
-      <div class="word-card p-3 md:p-5">
+      <div class="card bg-white w-full p-4 rounded-2xl shadow-lg overflow-hidden">
 
-        <div class="flex justify-between items-start gap-2">
+        <div class="flex justify-between items-start gap-3 flex-wrap">
 
           <div class="flex-1 min-w-0">
 
-            <h2 class="text-xl md:text-3xl font-bold text-blue-600 break-words">
+            <h2 class="text-xl sm:text-2xl md:text-3xl font-bold text-blue-700 break-words">
+
               ${word.word}
+
             </h2>
 
-            <p class="mt-1 text-sm md:text-lg break-words">
-              🔊 ${word.pronunciation}
-            </p>
+            <p class="mt-2 text-sm md:text-base break-words">
 
-            <p class="mt-2 text-sm md:text-xl font-semibold break-words">
-              🇧🇩 ${word.bangla}
-            </p>
+              🔊 ${word["উচ্চারণ"]}
 
-            <p class="mt-2 inline-block px-3 py-1 rounded-full bg-blue-100 text-blue-700 text-xs md:text-sm font-semibold">
-              ${word.category}
             </p>
 
           </div>
 
           <button
             onclick="toggleFavorite('${word.word}')"
-            class="text-2xl md:text-4xl"
+            class="text-3xl"
           >
+
             ${isFav ? "❤️" : "🤍"}
+
           </button>
 
         </div>
 
-        <div class="mt-3 border-t pt-3">
+        <p class="mt-3 text-lg break-words">
 
-          <p class="italic text-gray-500 text-xs md:text-base break-words">
+          🇧🇩 ${word.bangla}
+
+        </p>
+
+        <p class="mt-2 break-words">
+
+          ${word.category}
+
+        </p>
+
+        <div class="mt-4">
+
+          <p class="sentence italic text-gray-600 text-sm md:text-base break-words">
+
             "${word.sentence}"
+
           </p>
 
-          <p class="mt-2 text-green-500 text-xs md:text-base font-medium break-words">
+          <p class="sentenceBangla mt-2 text-green-600 text-sm md:text-base break-words">
+
             ${word.sentenceBangla}
+
           </p>
 
         </div>
 
-        <div class="mt-3 grid grid-cols-2 gap-2">
+        <button
+          onclick="speakWord('${word.word}')"
+          class="bg-blue-600 text-white px-4 py-2 rounded-xl w-full mt-4"
+        >
 
-          <button
-            onclick="speakWord('${word.word}')"
-            class="premium-btn-blue text-xs md:text-base py-2"
-          >
-            🔊 Speak
-          </button>
+          🔊 Speak
 
-          <button
-            onclick="copyWord('${word.word}')"
-            class="premium-btn-green text-xs md:text-base py-2"
-          >
-            📋 Copy
-          </button>
+        </button>
 
-        </div>
+       
 
       </div>
     `;
     });
-}
 
-/* =========================
-SEARCH + FILTER
-========================= */
+    container.innerHTML +=
+        cards.join("");
 
-function filterWords() {
+    currentIndex += wordsPerLoad;
 
-    const search =
-        document
-            .getElementById("searchInput")
-            .value
-            .toLowerCase();
-
-    const category =
-        document
-            .getElementById("categoryFilter")
-            .value;
-
-    const filtered =
-        words.filter(word => {
-
-            const matchSearch =
-                word.word.toLowerCase().includes(search) ||
-
-                word.bangla.includes(search);
-
-            const matchCategory =
-                category === "all" ||
-
-                word.category === category;
-
-            return matchSearch && matchCategory;
-        });
-
-    showWords(filtered);
-}
-
-/* =========================
-RANDOM WORD
-========================= */
-
-function showRandomWord() {
-
-    const randomWord =
-        words[
-        Math.floor(Math.random() * words.length)
-        ];
-
-    showWords([randomWord]);
-}
-
-/* =========================
-DAILY WORD
-========================= */
-
-function showDailyWord() {
-
-    const today =
-        new Date().getDate();
-
-    const dailyWord =
-        words[today % words.length];
-
-    showWords([dailyWord]);
-}
-
-/* =========================
-FAVORITE SYSTEM
-========================= */
-
-function toggleFavorite(word) {
-
-    const favoriteMode =
-        document.getElementById("favoriteMode").value;
-
-    if (favorites.includes(word)) {
-
-        favorites =
-            favorites.filter(w => w !== word);
-
-    } else {
-
-        favorites.push(word);
-    }
-
-    localStorage.setItem(
-        "favorites",
-        JSON.stringify(favorites)
-    );
-
-    if (favoriteMode === "true") {
-
-        showFavorites();
-
-    } else {
-
-        showWords(words);
-    }
-}
-
-function showFavorites() {
-
-    document.getElementById(
-        "favoriteMode"
-    ).value = "true";
-
-    const favWords =
-        words.filter(word =>
-            favorites.includes(word.word)
+    const loadMoreBtn =
+        document.getElementById(
+            "loadMoreBtn"
         );
 
-    showWords(favWords);
+    if (currentIndex >= data.length) {
+
+        loadMoreBtn.style.display =
+            "none";
+
+    } else {
+
+        loadMoreBtn.style.display =
+            "inline-block";
+    }
 }
 
-function showAllWords() {
+/*
+========================
+LOAD MORE
+========================
+*/
 
-    document.getElementById(
-        "favoriteMode"
-    ).value = "false";
+function loadMoreWords() {
 
-    showWords(words);
+    showWords(filteredWords, false);
 }
 
-/* =========================
-DARK MODE
-========================= */
-
-function toggleDarkMode() {
-
-    document.body.classList.toggle("dark");
-}
-
-/* =========================
-PRONUNCIATION
-========================= */
+/*
+========================
+VOICE
+========================
+*/
 
 function speakWord(word) {
 
-    window.speechSynthesis.cancel();
+    speechSynthesis.cancel();
 
     const speech =
         new SpeechSynthesisUtterance(word);
@@ -349,23 +255,182 @@ function speakWord(word) {
 
     speech.volume = 1;
 
-    window.speechSynthesis.speak(speech);
+    speechSynthesis.speak(speech);
 }
 
-/* =========================
-COPY WORD
-========================= */
+/*
+========================
+COPY
+========================
+*/
 
-function copyWord(word) {
+// function copyWord(word) {
 
-    navigator.clipboard.writeText(word);
+//     navigator.clipboard.writeText(word);
 
-    alert(word + " copied!");
+//     alert("Copied: " + word);
+// }
+
+/*
+========================
+FILTER
+========================
+*/
+
+function filterWords() {
+
+    const search =
+
+        document
+            .getElementById("searchInput")
+            .value
+            .toLowerCase();
+
+    const category =
+
+        document
+            .getElementById("categoryFilter")
+            .value;
+
+    filteredWords = words.filter(word => {
+
+        const matchSearch =
+
+            word.word
+                .toLowerCase()
+                .includes(search)
+
+            ||
+
+            word.bangla.includes(search);
+
+        const matchCategory =
+
+            category === "all"
+
+            ||
+
+            word.category === category;
+
+        return matchSearch &&
+            matchCategory;
+    });
+
+    showWords(filteredWords);
 }
 
-/* =========================
-QUIZ MODE
-========================= */
+/*
+========================
+RANDOM
+========================
+*/
+
+function showRandomWord() {
+
+    if (filteredWords.length === 0) {
+
+        return;
+    }
+
+    const randomWord =
+
+        filteredWords[
+        Math.floor(
+            Math.random() *
+            filteredWords.length
+        )
+        ];
+
+    showWords([randomWord]);
+}
+
+/*
+========================
+FAVORITE
+========================
+*/
+
+function toggleFavorite(word) {
+
+    if (favorites.includes(word)) {
+
+        favorites =
+            favorites.filter(
+                w => w !== word
+            );
+
+    } else {
+
+        favorites.push(word);
+    }
+
+    favorites = [...new Set(favorites)];
+
+    localStorage.setItem(
+
+        "favorites",
+
+        JSON.stringify(favorites)
+    );
+
+    showWords(filteredWords);
+}
+
+function showFavorites() {
+
+    const favWords =
+        words.filter(word =>
+
+            favorites.includes(word.word)
+        );
+
+    showWords(favWords);
+}
+
+function showAllWords() {
+
+    filteredWords = words;
+
+    showWords(filteredWords);
+}
+
+/*
+========================
+DARK MODE
+========================
+*/
+
+if (localStorage.getItem("theme")
+    === "dark") {
+
+    document
+        .getElementById("body")
+        .classList
+        .add("dark");
+}
+
+function toggleDarkMode() {
+
+    const body =
+        document.getElementById("body");
+
+    body.classList.toggle("dark");
+
+    localStorage.setItem(
+
+        "theme",
+
+        body.classList.contains("dark")
+            ? "dark"
+            : "light"
+    );
+}
+
+/*
+========================
+QUIZ
+========================
+*/
 
 function startQuiz() {
 
@@ -375,13 +440,18 @@ function startQuiz() {
         .remove("hidden");
 
     currentQuizWord =
+
         words[
-        Math.floor(Math.random() * words.length)
+        Math.floor(
+            Math.random() *
+            words.length
+        )
         ];
 
     document.getElementById(
         "quizQuestion"
-    ).innerText = currentQuizWord.word;
+    ).innerText =
+        currentQuizWord.word;
 
     document.getElementById(
         "quizAnswer"
@@ -395,55 +465,59 @@ function startQuiz() {
 function checkQuiz() {
 
     const answer =
+
         document
             .getElementById("quizAnswer")
             .value
-            .trim()
-            .toLowerCase();
+            .trim();
 
-    const correct =
+    if (
+        answer ===
         currentQuizWord.bangla
-            .trim()
-            .toLowerCase();
-
-    if (answer === correct) {
-
-        quizScore++;
-
-        document.getElementById(
-            "quizScore"
-        ).innerText = quizScore;
+    ) {
 
         document.getElementById(
             "quizResult"
         ).innerHTML =
-            "✅ Correct Answer";
+
+            "✅ Correct";
 
     } else {
 
         document.getElementById(
             "quizResult"
         ).innerHTML =
-            `❌ Correct: ${currentQuizWord.bangla}`;
+
+            `❌ Wrong <br>
+       Correct:
+       ${currentQuizWord.bangla}`;
     }
 }
 
-/* =========================
-EVENT LISTENER
-========================= */
+/*
+========================
+EVENTS
+========================
+*/
 
 document
     .getElementById("searchInput")
-    .addEventListener("input", filterWords);
+    .addEventListener(
+        "input",
+        filterWords
+    );
 
 document
     .getElementById("categoryFilter")
-    .addEventListener("change", filterWords);
+    .addEventListener(
+        "change",
+        filterWords
+    );
 
-/* =========================
-START APP
-========================= */
+/*
+========================
+START
+========================
+*/
 
-populateCategories();
-
-showWords(words);
+loadWords();
