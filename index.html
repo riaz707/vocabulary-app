@@ -1,0 +1,164 @@
+<!-- ========================
+📄 index.html
+======================== -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oxford Premium Dictionary</title>
+
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body id="body" class="bg-gray-100">
+
+    <header class="glass sticky top-0 z-50 backdrop-blur-xl border-b border-white/10">
+
+        <div class="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
+
+            <div>
+                <h1 class="text-2xl md:text-4xl font-extrabold gradient-text">
+                    Oxford Premium
+                </h1>
+
+                <p class="text-sm text-gray-500 mt-1">
+                    Learn English Smartly
+                </p>
+            </div>
+
+            <button onclick="toggleDarkMode()" class="premium-btn">
+                🌙 Dark
+            </button>
+
+        </div>
+
+    </header>
+
+
+    <input type="hidden" id="favoriteMode" value="false" />
+
+
+
+    <section class="max-w-7xl mx-auto px-4 py-10">
+
+        <div class="hero-box rounded-3xl p-8 md:p-12 shadow-2xl relative overflow-hidden">
+
+            <div class="absolute circle1"></div>
+            <div class="absolute circle2"></div>
+
+            <div class="relative z-10">
+
+                <h2 class="text-4xl md:text-6xl font-extrabold text-white leading-tight max-w-3xl">
+                    Master English Vocabulary Like a Pro 🚀
+                </h2>
+
+                <p class="text-white/80 mt-5 text-lg max-w-2xl leading-relaxed">
+                    Premium Bangla dictionary app with pronunciation, favorites and quiz mode.
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <section class="max-w-7xl mx-auto px-4">
+
+        <div class="glass rounded-3xl p-5 shadow-xl grid grid-cols-1 md:grid-cols-3 gap-4">
+
+            <div class="relative">
+
+                <input type="text" id="searchInput" placeholder="Search word..." class="premium-input">
+
+                <span class="search-icon">🔍</span>
+
+            </div>
+
+            <select id="categoryFilter" class="premium-input">
+                <option value="all">All Categories</option>
+            </select>
+
+            <button onclick="showRandomWord()" class="premium-btn-blue">
+                🎲 Random Word
+            </button>
+
+        </div>
+
+    </section>
+
+    <section class="max-w-7xl mx-auto px-4 mt-8">
+
+        <div class="grid grid-cols-2 lg:grid-cols-4 gap-4">
+
+            <button onclick="showFavorites()" class="action-card bg-pink-500">
+                ❤️ Favorites
+            </button>
+
+            <button onclick="showAllWords()" class="action-card bg-indigo-500">
+                📚 All Words
+            </button>
+
+            <button onclick="startQuiz()" class="action-card bg-green-500">
+                🧠 Quiz Mode
+            </button>
+
+            <button onclick="showDailyWord()" class="action-card bg-orange-500">
+                🔥 Daily Word
+            </button>
+        </div>
+
+    </section>
+
+    <section class="max-w-7xl mx-auto px-4 mt-8">
+
+        <div id="quizBox" class="glass hidden rounded-3xl p-6 shadow-xl">
+
+            <div class="flex justify-between items-center mb-5 flex-wrap gap-3">
+
+                <h2 class="text-3xl font-bold">
+                    Quiz Mode
+                </h2>
+
+                <div class="score-box">
+                    Score: <span id="quizScore">0</span>
+                </div>
+
+            </div>
+
+            <h3 id="quizQuestion" class="text-4xl font-bold mb-5"></h3>
+
+            <input type="text" id="quizAnswer" placeholder="বাংলা অর্থ লিখুন" class="premium-input mb-4">
+
+            <button onclick="checkQuiz()" class="premium-btn-green w-full">
+                Submit Answer
+            </button>
+
+            <p id="quizResult" class="mt-5 text-xl font-bold"></p>
+
+        </div>
+
+    </section>
+
+    <section class="max-w-7xl mx-auto px-4 py-10">
+
+        <div id="wordContainer" class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6"></div>
+
+    </section>
+
+    <script src="app.js"></script>
+
+</body>
+
+</html>
