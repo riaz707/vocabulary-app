@@ -240,23 +240,64 @@ VOICE
 ========================
 */
 
-function speakWord(word) {
+// function speakWord(word) {
 
+//     speechSynthesis.cancel();
+
+//     const speech =
+//         new SpeechSynthesisUtterance(word);
+
+//     speech.lang = "en-US";
+
+//     speech.rate = 0.9;
+
+//     speech.pitch = 1;
+
+//     speech.volume = 1;
+
+//     speechSynthesis.speak(speech);
+// }
+
+
+function speakWord(word, gender = 'female') { // ডিফল্টভাবে female সেট করা
     speechSynthesis.cancel();
 
-    const speech =
-        new SpeechSynthesisUtterance(word);
-
+    const speech = new SpeechSynthesisUtterance(word);
     speech.lang = "en-US";
-
     speech.rate = 0.9;
-
     speech.pitch = 1;
-
     speech.volume = 1;
+
+    // ব্রাউজারে উপলব্ধ সব ভয়েস নিয়ে আসা
+    const voices = speechSynthesis.getVoices();
+
+    // ইংরেজি (en) ভয়েসগুলো ফিল্টার করা
+    const enVoices = voices.filter(v => v.lang.startsWith('en'));
+
+    if (enVoices.length > 0) {
+        // মেল বা ফিমেল অনুযায়ী ভয়েস খোঁজা (ভয়েসের নামের ওপর ভিত্তি করে)
+        const selectedVoice = enVoices.find(voice => {
+            const name = voice.name.toLowerCase();
+            if (gender === 'male') {
+                return name.includes('male') || name.includes('google us english') || name.includes('david');
+            } else {
+                return name.includes('female') || name.includes('zira') || name.includes('microsoft') || name.includes('google');
+            }
+        });
+
+        // যদি পছন্দের ভয়েস পাওয়া যায়, তা সেট করা, না হলে প্রথম ইংরেজি ভয়েসটি নেওয়া
+        speech.voice = selectedVoice || enVoices[0];
+    }
 
     speechSynthesis.speak(speech);
 }
+// ব্রাউজারে ভয়েস রেডি হলে এই ইভেন্টটি ফায়ার হয়
+window.speechSynthesis.onvoiceschanged = function () {
+    // ভয়েস লোড হয়ে গেলে এখন আপনি কল করতে পারেন
+    console.log("Voices are ready!");
+};
+
+
 
 /*
 ========================
