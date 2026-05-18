@@ -17,6 +17,11 @@ body {
     backdrop-filter: blur(20px);
 }
 
+.glass {
+    background: rgba(255, 255, 255, 0.7);
+    backdrop-filter: blur(20px);
+}
+
 .gradient-text {
     background: linear-gradient(90deg, #2563eb, #7c3aed);
     -webkit-background-clip: text;
@@ -145,18 +150,18 @@ body {
 }
 
 .dark {
-    background: #0f172a;
-    color: white;
+    background: #0f172a !important;
+    color: rgb(0, 0, 0);
 }
 
 .dark .glass,
 .dark .word-card {
-    background: rgba(30, 41, 59, 0.8);
+    background: rgba(30, 41, 59, 0.8) !important;
     color: white;
 }
 
 .dark .premium-input {
-    background: rgba(15, 23, 42, 0.9);
+    background: rgba(15, 23, 42, 0.9) !important;
     color: white;
 }
 
