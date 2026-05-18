@@ -259,7 +259,7 @@ VOICE
 // }
 
 
-function speakWord(word, gender = 'female') { // ডিফল্টভাবে female সেট করা
+function speakWord(word, gender = 'male') { // ডিফল্টভাবে male সেট করা
     speechSynthesis.cancel();
 
     const speech = new SpeechSynthesisUtterance(word);
