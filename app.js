@@ -258,8 +258,7 @@ VOICE
 //     speechSynthesis.speak(speech);
 // }
 
-
-function speakWord(word, gender = 'male') { // ডিফল্টভাবে male সেট করা
+function speakWord(word, gender = 'male') { // এখানে ডিফল্ট 'male' করে দেওয়া হয়েছে
     speechSynthesis.cancel();
 
     const speech = new SpeechSynthesisUtterance(word);
@@ -268,29 +267,35 @@ function speakWord(word, gender = 'male') { // ডিফল্টভাবে ma
     speech.pitch = 1;
     speech.volume = 1;
 
-    // ব্রাউজারে উপলব্ধ সব ভয়েস নিয়ে আসা
     const voices = speechSynthesis.getVoices();
-
-    // ইংরেজি (en) ভয়েসগুলো ফিল্টার করা
+    // শুধুমাত্র ইংরেজি (en) ভয়েসগুলো ফিল্টার করা
     const enVoices = voices.filter(v => v.lang.startsWith('en'));
 
     if (enVoices.length > 0) {
-        // মেল বা ফিমেল অনুযায়ী ভয়েস খোঁজা (ভয়েসের নামের ওপর ভিত্তি করে)
-        const selectedVoice = enVoices.find(voice => {
-            const name = voice.name.toLowerCase();
-            if (gender === 'male') {
-                return name.includes('male') || name.includes('google us english') || name.includes('david');
-            } else {
-                return name.includes('female') || name.includes('zira') || name.includes('microsoft') || name.includes('google');
-            }
-        });
+        let selectedVoice;
 
-        // যদি পছন্দের ভয়েস পাওয়া যায়, তা সেট করা, না হলে প্রথম ইংরেজি ভয়েসটি নেওয়া
+        if (gender === 'male') {
+            // প্রথমে ছেলেদের নামের কিওয়ার্ড দিয়ে খোঁজা (যেমন: David, Mark, Male, Google US English)
+            selectedVoice = enVoices.find(voice => {
+                const name = voice.name.toLowerCase();
+                return name.includes('male') || name.includes('david') || name.includes('mark') || name.includes('google us english');
+            });
+        } else {
+            // মেয়েদের নামের কিওয়ার্ড দিয়ে খোঁজা (যেমন: Zira, Hazel, Female)
+            selectedVoice = enVoices.find(voice => {
+                const name = voice.name.toLowerCase();
+                return name.includes('female') || name.includes('zira') || name.includes('hazel');
+            });
+        }
+
+        // যদি কাঙ্খিত ভয়েস পাওয়া যায় তা সেট হবে, না হলে প্রথম উপলব্ধ ইংরেজি ভয়েসটি সিলেক্ট হবে
         speech.voice = selectedVoice || enVoices[0];
     }
 
     speechSynthesis.speak(speech);
 }
+
+
 // ব্রাউজারে ভয়েস রেডি হলে এই ইভেন্টটি ফায়ার হয়
 window.speechSynthesis.onvoiceschanged = function () {
     // ভয়েস লোড হয়ে গেলে এখন আপনি কল করতে পারেন
