@@ -6638,5 +6638,3013 @@
         "category": "Determiner, Pronoun, Adjective",
         "sentence": "I have a few close friends.",
         "sentenceBangla": "আমার অল্প কয়েকজন ঘনিষ্ঠ বন্ধু আছে।"
+    },
+    {
+        "word": "Gain",
+        "উচ্চারণ": "গেইন",
+        "bangla": "লাভ করা, অর্জন করা",
+        "category": "Verb, Noun",
+        "sentence": "Hard work will help you gain success.",
+        "sentenceBangla": "কঠোর পরিশ্রম তোমাকে সাফল্য অর্জন করতে সাহায্য করবে।"
+    },
+    {
+        "word": "Game",
+        "উচ্চারণ": "গেইম",
+        "bangla": "খেলা",
+        "category": "Noun",
+        "sentence": "Football is a popular game.",
+        "sentenceBangla": "ফুটবল একটি জনপ্রিয় খেলা।"
+    },
+    {
+        "word": "Gap",
+        "উচ্চারণ": "গ্যাপ",
+        "bangla": "শূন্যস্থান, ব্যবধান",
+        "category": "Noun",
+        "sentence": "There is a gap in the wall.",
+        "sentenceBangla": "দেয়ালের মধ্যে একটি ফাটল বা শূন্যস্থান আছে।"
+    },
+    {
+        "word": "Garage",
+        "উচ্চারণ": "গ্যারেজ",
+        "bangla": "গ্যারেজ, গাড়ি রাখার স্থান",
+        "category": "Noun",
+        "sentence": "Park the car in the garage.",
+        "sentenceBangla": "গাড়িটি গ্যারেজে পার্ক করো।"
+    },
+    {
+        "word": "Garden",
+        "উচ্চারণ": "গার্ডেন",
+        "bangla": "বাগান",
+        "category": "Noun",
+        "sentence": "She has a beautiful flower garden.",
+        "sentenceBangla": "তার একটি সুন্দর ফুলের বাগান আছে।"
+    },
+    {
+        "word": "Gas",
+        "উচ্চারণ": "গ্যাস",
+        "bangla": "গ্যাস",
+        "category": "Noun",
+        "sentence": "Oxygen is a vital gas for human life.",
+        "sentenceBangla": "অক্সিজেন মানব জীবনের জন্য একটি গুরুত্বপূর্ণ গ্যাস।"
+    },
+    {
+        "word": "Gate",
+        "উচ্চারণ": "গেইট",
+        "bangla": "গেট, ফটক",
+        "category": "Noun",
+        "sentence": "Please close the front gate.",
+        "sentenceBangla": "দয়া করে সামনের গেটটি বন্ধ করো।"
+    },
+    {
+        "word": "Gather",
+        "উচ্চারণ": "গ্যাদার",
+        "bangla": "সংগ্রহ করা, জড়ো হওয়া",
+        "category": "Verb",
+        "sentence": "People began to gather in the hall.",
+        "sentenceBangla": "মানুষজন হলে জড়ো হতে শুরু করল।"
+    },
+    {
+        "word": "General",
+        "উচ্চারণ": "জেনারেল",
+        "bangla": "সাধারণ, প্রধান",
+        "category": "Adjective, Noun",
+        "sentence": "This is a matter of general interest.",
+        "sentenceBangla": "এটি সাধারণ আগ্রহের একটি বিষয়।"
+    },
+    {
+        "word": "Generally",
+        "উচ্চারণ": "জেনারেলি",
+        "bangla": "সাধারণত",
+        "category": "Adverb",
+        "sentence": "I generally wake up early in the morning.",
+        "sentenceBangla": "আমি সাধারণত খুব সকালে ঘুম থেকে উঠি।"
+    },
+    {
+        "word": "Generation",
+        "উচ্চারণ": "জেনারেশন",
+        "bangla": "প্রজন্ম",
+        "category": "Noun",
+        "sentence": "The younger generation loves technology.",
+        "sentenceBangla": "তরুণ প্রজন্ম প্রযুক্তি পছন্দ করে।"
+    },
+    {
+        "word": "Generous",
+        "উচ্চারণ": "জেনারাস",
+        "bangla": "উদার, দয়ালu",
+        "category": "Adjective",
+        "sentence": "He is very generous with his money.",
+        "sentenceBangla": "তিনি টাকা-পয়সার ব্যাপারে খুব উদার।"
+    },
+    {
+        "word": "Gentle",
+        "উচ্চারণ": "জেন্টল",
+        "bangla": "নম্র, ভদ্র",
+        "category": "Adjective",
+        "sentence": "She has a gentle voice.",
+        "sentenceBangla": "তার কণ্ঠস্বর খুব নম্র।"
+    },
+    {
+        "word": "Gentleman",
+        "উচ্চারণ": "জেন্টলম্যান",
+        "bangla": "ভদ্রলোক",
+        "category": "Noun",
+        "sentence": "He behaves like a true gentleman.",
+        "sentenceBangla": "সে একজন প্রকৃত ভদ্রলোকের মতো আচরণ করে।"
+    },
+    {
+        "word": "Geography",
+        "উচ্চারণ": "জিওগ্রাফি",
+        "bangla": "ভূগোল",
+        "category": "Noun",
+        "sentence": "Geography is my favorite subject.",
+        "sentenceBangla": "ভূগোল আমার প্রিয় বিষয়।"
+    },
+    {
+        "word": "Get",
+        "উচ্চারণ": "গেট",
+        "bangla": "পাওয়া, হওয়া",
+        "category": "Verb",
+        "sentence": "Did you get my message?",
+        "sentenceBangla": "তুমি কি আমার বার্তাটি পেয়েছ?"
+    },
+    {
+        "word": "Giant",
+        "উচ্চারণ": "জায়ান্ট",
+        "bangla": "বিশাল, দৈত্যাকার",
+        "category": "Adjective, Noun",
+        "sentence": "The company has grown into a giant corporation.",
+        "sentenceBangla": "কোম্পানিটি একটি বিশাল কর্পোরেশনে পরিণত হয়েছে।"
+    },
+    {
+        "word": "Gift",
+        "উচ্চারণ": "গিফট",
+        "bangla": "উপহার, প্রতিভা",
+        "category": "Noun",
+        "sentence": "She gave me a beautiful birthday gift.",
+        "sentenceBangla": "সে আমাকে একটি সুন্দর জন্মদিনের উপহার দিয়েছে।"
+    },
+    {
+        "word": "Girl",
+        "উচ্চারণ": "গার্ল",
+        "bangla": "মেয়ে, বালিকা",
+        "category": "Noun",
+        "sentence": "The little girl is reading a book.",
+        "sentenceBangla": "ছোট মেয়েটি একটি বই পড়ছে।"
+    },
+    {
+        "word": "Girlfriend",
+        "উচ্চারণ": "গার্লফ্রেন্ড",
+        "bangla": "বান্ধবী, প্রেমিকা",
+        "category": "Noun",
+        "sentence": "He introduced me to his girlfriend.",
+        "sentenceBangla": "সে আমাকে তার বান্ধবীর সাথে পরিচয় করিয়ে দিল।"
+    },
+    {
+        "word": "Give",
+        "উচ্চারণ": "গিভ",
+        "bangla": "দেওয়া",
+        "category": "Verb",
+        "sentence": "Can you give me a glass of water?",
+        "sentenceBangla": "আমাকে এক গ্লাস পানি দিতে পারবে?"
+    },
+    {
+        "word": "Glad",
+        "উচ্চারণ": "গ্ল্যাড",
+        "bangla": "আনন্দিত, খুশি",
+        "category": "Adjective",
+        "sentence": "I am glad to meet you.",
+        "sentenceBangla": "আপনার সাথে দেখা করে আমি আনন্দিত।"
+    },
+    {
+        "word": "Glass",
+        "উচ্চারণ": "গ্লাস",
+        "bangla": "গ্লাস, কাচ",
+        "category": "Noun",
+        "sentence": "The window is made of glass.",
+        "sentenceBangla": "জানলাটি কাচের তৈরি।"
+    },
+    {
+        "word": "Global",
+        "উচ্চারণ": "গ্লোবাল",
+        "bangla": "বৈশ্বিক, বিশ্বব্যাপী",
+        "category": "Adjective",
+        "sentence": "Global warming is a serious issue.",
+        "sentenceBangla": "বৈশ্বিক উষ্ণায়ন একটি গুরুতর সমস্যা।"
+    },
+    {
+        "word": "Glove",
+        "উচ্চারণ": "গ্লাভ",
+        "bangla": "দস্তানা, হাতমোজা",
+        "category": "Noun",
+        "sentence": "He wore a leather glove on his left hand.",
+        "sentenceBangla": "সে তার বাম হাতে একটি চামড়ার দস্তানা পরেছিল।"
+    },
+    {
+        "word": "Go",
+        "উচ্চারণ": "গো",
+        "bangla": "যাওয়া",
+        "category": "Verb",
+        "sentence": "I need to go to school now.",
+        "sentenceBangla": "আমাকে এখন স্কুলে যেতে হবে।"
+    },
+    {
+        "word": "Goal",
+        "উচ্চারণ": "গোল",
+        "bangla": "লক্ষ্য, গোল",
+        "category": "Noun",
+        "sentence": "My goal is to become a doctor.",
+        "sentenceBangla": "আমার লক্ষ্য একজন ডাক্তার হওয়া।"
+    },
+    {
+        "word": "God",
+        "উচ্চারণ": "গড",
+        "bangla": "ঈশ্বর, দেবতা",
+        "category": "Noun",
+        "sentence": "We should thank God for everything.",
+        "sentenceBangla": "আমাদের সব কিছুর জন্য ঈশ্বরের কাছে কৃতজ্ঞ থাকা উচিত।"
+    },
+    {
+        "word": "Gold",
+        "উচ্চারণ": "গোল্ড",
+        "bangla": "সোনা, স্বর্ণ",
+        "category": "Noun, Adjective",
+        "sentence": "She wore a ring made of gold.",
+        "sentenceBangla": "সে সোনার তৈরি একটি আংটি পরেছিল।"
+    },
+    {
+        "word": "Good",
+        "উচ্চারণ": "গুড",
+        "bangla": "ভালো",
+        "category": "Adjective, Noun",
+        "sentence": "Eating vegetables is good for health.",
+        "sentenceBangla": "সবজি খাওয়া স্বাস্থ্যের জন্য ভালো।"
+    },
+    {
+        "word": "Goodbye",
+        "উচ্চারণ": "গুডবাই",
+        "bangla": "বিদায়",
+        "category": "Exclamation, Noun",
+        "sentence": "They said goodbye and left.",
+        "sentenceBangla": "তারা বিদায় জানিয়ে চলে গেল।"
+    },
+    {
+        "word": "Goodness",
+        "উচ্চারণ": "গুডনেস",
+        "bangla": "সদয়তা, ভালোত্ব",
+        "category": "Noun, Exclamation",
+        "sentence": "She believes in the goodness of human nature.",
+        "sentenceBangla": "তিনি মানুষের স্বভাবের ভালোত্বে বিশ্বাস করেন।"
+    },
+    {
+        "word": "Goods",
+        "উрактери": "গুডস",
+        "bangla": "পণ্য, মালপত্র",
+        "category": "Noun",
+        "sentence": "The truck is carrying commercial goods.",
+        "sentenceBangla": "ট্রাকটি বাণিজ্যিক পণ্য বহন করছে।"
+    },
+    {
+        "word": "Govern",
+        "উচ্চারণ": "গভর্ন",
+        "bangla": "শাসন করা, পরিচালনা করা",
+        "category": "Verb",
+        "sentence": "Rules are needed to govern the society.",
+        "sentenceBangla": "সমাজ পরিচালনার জন্য নিয়মের প্রয়োজন।"
+    },
+    {
+        "word": "Government",
+        "উচ্চারণ": "গভর্নমেন্ট",
+        "bangla": "সরকার",
+        "category": "Noun",
+        "sentence": "The government announced a new policy.",
+        "sentenceBangla": "সরকার একটি নতুন নীতি ঘোষণা করেছে।"
+    },
+    {
+        "word": "Governor",
+        "উচ্চারণ": "গভর্নর",
+        "bangla": "গভর্নর, রাজ্যপাল",
+        "category": "Noun",
+        "sentence": "The governor signed the new law.",
+        "sentenceBangla": "গভর্নর নতুন আইনটিতে স্বাক্ষর করেছেন।"
+    },
+    {
+        "word": "Grab",
+        "উচ্চারণ": "গ্র্যাব",
+        "bangla": "আঁকড়ে ধরা, কেড়ে নেওয়া",
+        "category": "Verb",
+        "sentence": "Quickly grab your bag and run.",
+        "sentenceBangla": "তাড়াতাড়ি তোমার ব্যাগটা নাও এবং দৌড়াও।"
+    },
+    {
+        "word": "Grade",
+        "উচ্চারণ": "গ্রেড",
+        "bangla": "গ্রেড, শ্রেণী, মান",
+        "category": "Noun, Verb",
+        "sentence": "He got an excellent grade in the exam.",
+        "sentenceBangla": "সে পরীক্ষায় চমৎকার গ্রেড পেয়েছে।"
+    },
+    {
+        "word": "Gradually",
+        "উচ্চারণ": "গ্রাজুয়ালি",
+        "bangla": "ধীরে ধীরে, ক্রমান্বয়ে",
+        "category": "Adverb",
+        "sentence": "His health is gradually improving.",
+        "sentenceBangla": "তার স্বাস্থ্য ধীরে ধীরে উন্নতি করছে।"
+    },
+    {
+        "word": "Graduate",
+        "উচ্চারণ": "গ্রাজুয়েট",
+        "bangla": "স্নাতক, स्नातक হওয়া",
+        "category": "Noun, Verb",
+        "sentence": "She wants to graduate next year.",
+        "sentenceBangla": "সে আগামী বছর স্নাতক সম্পন্ন করতে চায়।"
+    },
+    {
+        "word": "Grain",
+        "উচ্চারণ": "গ্রেইন",
+        "bangla": "শস্যদানা, কণা",
+        "category": "Noun",
+        "sentence": "Rice is the main grain crop here.",
+        "sentenceBangla": "ধান এখানকার প্রধান শস্য ফসল।"
+    },
+    {
+        "word": "Grand",
+        "উচ্চারণ": "গ্র্যান্ড",
+        "bangla": "চমৎকার, প্রধান, মহৎ",
+        "category": "Adjective",
+        "sentence": "The hotel has a grand entrance.",
+        "sentenceBangla": "হোটেলটির একটি চমৎকার প্রবেশদ্বার রয়েছে।"
+    },
+    {
+        "word": "Grandchild",
+        "উচ্চারণ": "গ্র্যান্ডচাইল্ড",
+        "bangla": "নাতি/নাতনি",
+        "category": "Noun",
+        "sentence": "The old man loves his grandchild dearly.",
+        "sentenceBangla": "বৃদ্ধ লোকটি তার নাতি/নাতনিকে খুব ভালোবাসেন।"
+    },
+    {
+        "word": "Grandfather",
+        "উচ্চারণ": "গ্র্যান্ডফাদার",
+        "bangla": "দাদা, নানা",
+        "category": "Noun",
+        "sentence": "My grandfather told me an interesting story.",
+        "sentenceBangla": "আমার দাদা আমাকে একটি মজার গল্প বলেছিলেন।"
+    },
+    {
+        "word": "Grandmother",
+        "উচ্চারণ": "গ্র্যান্ডমাদার",
+        "bangla": "দাদি, নানি",
+        "category": "Noun",
+        "sentence": "My grandmother makes delicious sweets.",
+        "sentenceBangla": "আমার দাদি সুস্বাদু মিষ্টি তৈরি করেন।"
+    },
+    {
+        "word": "Grandparent",
+        "উচ্চারণ": "গ্র্যান্ডপ্যারেন্ট",
+        "bangla": "দাদা-দাদি, নানা-নানি",
+        "category": "Noun",
+        "sentence": "Children should respect their grandparents.",
+        "sentenceBangla": "শিশুদের তাদের দাদা-দাদি/নানা-নানিকে সম্মান করা উচিত।"
+    },
+    {
+        "word": "Grant",
+        "উচ্চারণ": "গ্র্যান্ট",
+        "bangla": "মঞ্জুর করা, অনুদান",
+        "category": "Verb, Noun",
+        "sentence": "The government gave a research grant to the university.",
+        "sentenceBangla": "সরকার বিশ্ববিদ্যালয়টিকে একটি গবেষণা অনুদান দিয়েছে।"
+    },
+    {
+        "word": "Grass",
+        "উচ্চারণ": "গ্রাস",
+        "bangla": "ঘাস",
+        "category": "Noun",
+        "sentence": "The grass is green and wet with dew.",
+        "sentenceBangla": "ঘাসগুলো সবুজ এবং শিশিরে ভেজা।"
+    },
+    {
+        "word": "Grateful",
+        "উচ্চারণ": "গ্রেটফুল",
+        "bangla": "কৃতজ্ঞ",
+        "category": "Adjective",
+        "sentence": "I am grateful for your timely help.",
+        "sentenceBangla": "আপনার সময়োপযোগী সাহায্যের জন্য আমি কৃতজ্ঞ।"
+    },
+    {
+        "word": "Grave",
+        "উচ্চারণ": "গ্রেইভ",
+        "bangla": "কবর, গুরুতর",
+        "category": "Noun, Adjective",
+        "sentence": "They visited the grave of the famous poet.",
+        "sentenceBangla": "তারা বিখ্যাত কবির কবর জিয়ারত করেছিলেন।"
+    },
+    {
+        "word": "Great",
+        "উচ্চারণ": "গ্রেইট",
+        "bangla": "মহান, বড়, চমৎকার",
+        "category": "Adjective",
+        "sentence": "He is a great leader.",
+        "sentenceBangla": "তিনি একজন মহান নেতা।"
+    },
+    {
+        "word": "Green",
+        "উচ্চারণ": "গ্রীন",
+        "bangla": "সবুজ",
+        "category": "Adjective, Noun",
+        "sentence": "Leaves are green because of chlorophyll.",
+        "sentenceBangla": "ক্লোরোফিলের কারণে পাতা সবুজ হয়।"
+    },
+    {
+        "word": "Greet",
+        "উচ্চারণ": "গ্রীট",
+        "bangla": "অভিবাদন জানানো",
+        "category": "Verb",
+        "sentence": "Always greet others with a smile.",
+        "sentenceBangla": "সবসময় হাসিমুখে অন্যদের অভিবাদন জানাও।"
+    },
+    {
+        "word": "Grey",
+        "উচ্চারণ": "গ্রে",
+        "bangla": "ধূসর",
+        "category": "Adjective, Noun",
+        "sentence": "The sky is full of grey clouds.",
+        "sentenceBangla": "আকাশ ধূসর মেঘে ঢেকে গেছে।"
+    },
+    {
+        "word": "Grocery",
+        "উচ্চারণ": "গ্রোসারি",
+        "bangla": "মুদি দোকান, মুদি সামগ্রী",
+        "category": "Noun",
+        "sentence": "I need to buy some items from the grocery store.",
+        "sentenceBangla": "আমাকে মুদি দোকান থেকে কিছু জিনিস কিনতে হবে।"
+    },
+    {
+        "word": "Ground",
+        "উচ্চারণ": "গ্রাউন্ড",
+        "bangla": "মাটি, ভূমি",
+        "category": "Noun",
+        "sentence": "We sat on the playground.",
+        "sentenceBangla": "আমরা খেলার মাঠে বসেছিলাম।"
+    },
+    {
+        "word": "Group",
+        "উচ্চারণ": "গ্রুপ",
+        "bangla": "দল, গোষ্ঠী",
+        "category": "Noun, Verb",
+        "sentence": "A group of students visited the museum.",
+        "sentenceBangla": "ছাত্রদের একটি দল যাদুঘরটি পরিদর্শন করেছে।"
+    },
+    {
+        "word": "Grow",
+        "উচ্চারণ": "গ্রো",
+        "bangla": "বৃদ্ধি পাওয়া, জন্মানো",
+        "category": "Verb",
+        "sentence": "Plants grow quickly in spring.",
+        "sentenceBangla": "বসন্তকালে উদ্ভিদ দ্রুত বৃদ্ধি পায়।"
+    },
+    {
+        "word": "Growth",
+        "উচ্চারণ": "গ্রোথ",
+        "bangla": "বৃদ্ধি, বিকাশ",
+        "category": "Noun",
+        "sentence": "The economic growth of the country is stable.",
+        "sentenceBangla": "দেশের অর্থনৈতিক প্রবৃদ্ধি স্থিতিশীল।"
+    },
+    {
+        "word": "Guarantee",
+        "উচ্চারণ": "গ্যারান্টি",
+        "bangla": "গ্যারান্টি, নিশ্চয়তা দেওয়া",
+        "category": "Noun, Verb",
+        "sentence": "This product comes with a one-year guarantee.",
+        "sentenceBangla": "এই পণ্যটি এক বছরের গ্যারান্টি সহ আসে।"
+    },
+    {
+        "word": "Guard",
+        "উচ্চারণ": "গার্ড",
+        "bangla": "প্রহরী, পাহারা দেওয়া",
+        "category": "Noun, Verb",
+        "sentence": "The security guard stands at the entrance.",
+        "sentenceBangla": "নিরাপত্তা প্রহরী প্রবেশদ্বারে দাঁড়িয়ে থাকে।"
+    },
+    {
+        "word": "Guess",
+        "উচ্চারণ": "গেজ",
+        "bangla": "অনুমান করা, অনুমান",
+        "category": "Verb, Noun",
+        "sentence": "Can you guess his age?",
+        "sentenceBangla": "তুমি কি তার বয়স অনুমান করতে পারো?"
+    },
+    {
+        "word": "Guest",
+        "উচ্চারণ": "গেস্ট",
+        "bangla": "অতিথি",
+        "category": "Noun",
+        "sentence": "We welcomed the guest warmly.",
+        "sentenceBangla": "আমরা অতিথিকে আন্তরিকভাবে স্বাগত জানালাম।"
+    },
+    {
+        "word": "Guide",
+        "উচ্চারণ": "গাইড",
+        "bangla": "নির্দেশিকা, গাইড, পথ দেখানো",
+        "category": "Noun, Verb",
+        "sentence": "The tour guide showed us around the city.",
+        "sentenceBangla": "ট্যুর গাইড আমাদের শহরটি ঘুরিয়ে দেখালেন।"
+    },
+    {
+        "word": "Guilty",
+        "উচ্চারণ": "গিল্টি",
+        "bangla": "দোষী",
+        "category": "Adjective",
+        "sentence": "The court found him guilty of the crime.",
+        "sentenceBangla": "আদালত তাকে অপরাধের জন্য দোষী সাব্যস্ত করেছে।"
+    },
+    {
+        "word": "Guitar",
+        "উচ্চারণ": "গিটার",
+        "bangla": "গিটার",
+        "category": "Noun",
+        "sentence": "He loves to play the acoustic guitar.",
+        "sentenceBangla": "সে অ্যাকোস্টিক গিটার বাজাতে ভালোবাসে।"
+    },
+    {
+        "word": "Gun",
+        "উচ্চারণ": "গান",
+        "bangla": "বন্দুক",
+        "category": "Noun",
+        "sentence": "The police officer drew his gun.",
+        "sentenceBangla": "পুলিশ কর্মকর্তা তার বন্দুক বের করলেন।"
+    },
+    {
+        "word": "Guy",
+        "উচ্চারণ": "গাই",
+        "bangla": "লোক, ব্যক্তি (অনানুষ্ঠানিক)",
+        "category": "Noun",
+        "sentence": "He is a very friendly guy.",
+        "sentenceBangla": "সে খুব বন্ধুত্বপূর্ণ একজন লোক।"
+    },
+    {
+        "word": "Habit",
+        "উচ্চারণ": "হ্যাবিট",
+        "bangla": "অভ্যাস",
+        "category": "Noun",
+        "sentence": "Reading books is a very good habit.",
+        "sentenceBangla": "বই পড়া একটি খুব ভালো অভ্যাস।"
+    },
+    {
+        "word": "Hair",
+        "উচ্চারণ": "হেয়ার",
+        "bangla": "চুল",
+        "category": "Noun",
+        "sentence": "She has long black hair.",
+        "sentenceBangla": "তার লম্বা কালো চুল আছে।"
+    },
+    {
+        "word": "Half",
+        "উচ্চারণ": "হাফ",
+        "bangla": "অর্ধেক",
+        "category": "Noun, Determiner, Pronoun, Adverb",
+        "sentence": "Cut the apple into two halves.",
+        "sentenceBangla": "আপেলটি কেটে দুই অর্ধেক করো।"
+    },
+    {
+        "word": "Hall",
+        "উচ্চারণ": "হল",
+        "bangla": "হলরুম, বড় কক্ষ",
+        "category": "Noun",
+        "sentence": "The meeting will be held in the main hall.",
+        "sentenceBangla": "প্রধান হলে সভাটি অনুষ্ঠিত হবে।"
+    },
+    {
+        "word": "Hand",
+        "উচ্চারণ": "হ্যান্ড",
+        "bangla": "হাত, হস্তান্তর করা",
+        "category": "Noun, Verb",
+        "sentence": "Wash your hands before eating.",
+        "sentenceBangla": "খাওয়ার আগে হাত ধুয়ে নাও।"
+    },
+    {
+        "word": "Handle",
+        "উচ্চারণ": "হ্যান্ডেল",
+        "bangla": "নাড়াচাড়া করা, হাতল",
+        "category": "Verb, Noun",
+        "sentence": "She knows how to handle difficult situations.",
+        "sentenceBangla": "সে জানে কীভাবে কঠিন পরিস্থিতি মোকাবেলা করতে হয়।"
+    },
+    {
+        "word": "Hang",
+        "উচ্চারণ": "হ্যাঙ",
+        "bangla": "ঝুলানো, ফাঁসি দেওয়া",
+        "category": "Verb",
+        "sentence": "Please hang your coat on the hook.",
+        "sentenceBangla": "দয়া করে হুকে তোমার কোটটি ঝুলিয়ে দাও।"
+    },
+    {
+        "word": "Happen",
+        "উচ্চারণ": "হ্যাপেন",
+        "bangla": "ঘটা",
+        "category": "Verb",
+        "sentence": "Accidents can happen anytime.",
+        "sentenceBangla": "দুর্ঘটনা যেকোনো সময় ঘটতে পারে।"
+    },
+    {
+        "word": "Happiness",
+        "উচ্চারণ": "হ্যাপিনেস",
+        "bangla": "সুখ, আনন্দ",
+        "category": "Noun",
+        "sentence": "Health is the key to true happiness.",
+        "sentenceBangla": "স্বাস্থ্যই প্রকৃত সুখের চাবিকাঠি।"
+    },
+    {
+        "word": "Happy",
+        "উচ্চারণ": "হ্যাপি",
+        "bangla": "সুখী, খুশি",
+        "category": "Adjective",
+        "sentence": "I am happy with my test result.",
+        "sentenceBangla": "আমি আমার পরীক্ষার ফলাফলে খুশি।"
+    },
+    {
+        "word": "Hard",
+        "উচ্চারণ": "হার্ড",
+        "bangla": "কঠিন, শক্ত, কঠোরভাবে",
+        "category": "Adjective, Adverb",
+        "sentence": "Diamond is a very hard material.",
+        "sentenceBangla": "হীরা একটি খুব শক্ত উপাদান।"
+    },
+    {
+        "word": "Hardly",
+        "উচ্চারণ": "হার্ডলি",
+        "bangla": "খুব কমই, কদাচিৎ",
+        "category": "Adverb",
+        "sentence": "I could hardly hear what he said.",
+        "sentenceBangla": "সে কী বলেছিল তা আমি খুব কমই শুনতে পেরেছিলাম।"
+    },
+    {
+        "word": "Harm",
+        "উচ্চারণ": "হার্ম",
+        "bangla": "ক্ষতি করা, ক্ষতি",
+        "category": "Verb, Noun",
+        "sentence": "The storm did not do any harm to the crop.",
+        "sentenceBangla": "ঝড়টি ফসলের কোনো ক্ষতি করেনি।"
+    },
+    {
+        "word": "Harmful",
+        "উচ্চারণ": "হার্মফুল",
+        "bangla": "ক্ষতিকর",
+        "category": "Adjective",
+        "sentence": "Smoking is harmful to health.",
+        "sentenceBangla": "ধূমপান স্বাস্থ্যের জন্য ক্ষতিকর।"
+    },
+    {
+        "word": "Hat",
+        "উচ্চারণ": "হ্যাট",
+        "bangla": "টুপি",
+        "category": "Noun",
+        "sentence": "He wore a straw hat to protect himself from the sun.",
+        "sentenceBangla": "রোদ থেকে বাঁচতে সে একটি খড়ের টুপি পরেছিল।"
+    },
+    {
+        "word": "Hate",
+        "উচ্চারণ": "হেইট",
+        "bangla": "ঘৃণা করা, ঘৃণা",
+        "category": "Verb, Noun",
+        "sentence": "I hate wasting time on useless things.",
+        "sentenceBangla": "আমি ফালতু জিনিসে সময় নষ্ট করা ঘৃণা করি।"
+    },
+    {
+        "word": "Have",
+        "উচ্চারণ": "হ্যাভ",
+        "bangla": "আছে, থাকা, গ্রহণ করা",
+        "category": "Verb, Auxiliary Verb",
+        "sentence": "I have a pet dog.",
+        "sentenceBangla": "আমার একটি পোষা কুকুর আছে।"
+    },
+    {
+        "word": "Have to",
+        "উচ্চারণ": "হ্যাভ টু",
+        "bangla": "হবে (বাধ্যবাধকতা বোঝাতে)",
+        "category": "Modal Verb",
+        "sentence": "You have to complete this work today.",
+        "sentenceBangla": "তোমাকে আজই এই কাজটি সম্পন্ন করতে হবে।"
+    },
+    {
+        "word": "He",
+        "উচ্চারণ": "হি",
+        "bangla": "সে (পুরুষবাচক)",
+        "category": "Pronoun",
+        "sentence": "He is a brilliant student.",
+        "sentenceBangla": "সে একজন মেধাবী ছাত্র।"
+    },
+    {
+        "word": "Head",
+        "উচ্চারণ": "হেড",
+        "bangla": "মাথা, প্রধান, নেতৃত্ব দেওয়া",
+        "category": "Noun, Verb",
+        "sentence": "He is the head of the department.",
+        "sentenceBangla": "তিনি বিভাগের প্রধান।"
+    },
+    {
+        "word": "Headache",
+        "উচ্চারণ": "হেডএইক",
+        "bangla": "মাথাব্যথা",
+        "category": "Noun",
+        "sentence": "I have a severe headache today.",
+        "sentenceBangla": "আজ আমার তীব্র মাথাব্যথা করছে।"
+    },
+    {
+        "word": "Headline",
+        "উচ্চারণ": "হেডলাইন",
+        "bangla": "শিরোনাম",
+        "category": "Noun",
+        "sentence": "The news made the headline in the newspaper.",
+        "sentenceBangla": "খবরটি পত্রিকার শিরোনামে স্থান পেয়েছে।"
+    },
+    {
+        "word": "Headquarters",
+        "উচ্চারণ": "হেডকোয়ার্টার্স",
+        "bangla": "সদর দফতর, প্রধান কার্যালয়",
+        "category": "Noun",
+        "sentence": "The company's headquarters is in Dhaka.",
+        "sentenceBangla": "কোম্পানির প্রধান কার্যালয় ঢাকায় অবস্থিত।"
+    },
+    {
+        "word": "Health",
+        "উচ্চারণ": "হেলথ",
+        "bangla": "স্বাস্থ্য",
+        "category": "Noun",
+        "sentence": "Health is wealth.",
+        "sentenceBangla": "স্বাস্থ্যই সম্পদ।"
+    },
+    {
+        "word": "Healthy",
+        "উচ্চারণ": "হেলদি",
+        "bangla": "স্বাস্থ্যকর, সুস্থ",
+        "category": "Adjective",
+        "sentence": "Regular exercise keeps us healthy.",
+        "sentenceBangla": "নিয়মিত ব্যায়াম আমাদের সুস্থ রাখে।"
+    },
+    {
+        "word": "Hear",
+        "উচ্চারণ": "হিয়ার",
+        "bangla": "শোনা",
+        "category": "Verb",
+        "sentence": "Can you hear the sound?",
+        "sentenceBangla": "তুমি কি শব্দটা শুনতে পাচ্ছ?"
+    },
+    {
+        "word": "Hearing",
+        "উচ্চারণ": "হিয়ারিং",
+        "bangla": "শ্রবণ, শুনানি",
+        "category": "Noun",
+        "sentence": "The court hearing will start tomorrow.",
+        "sentenceBangla": "আদালতের শুনানি আগামীকাল শুরু হবে।"
+    },
+    {
+        "word": "Heart",
+        "উচ্চারণ": "হার্ট",
+        "bangla": "হৃদয়, মন",
+        "category": "Noun",
+        "sentence": "The heart pumps blood to the body.",
+        "sentenceBangla": "হৃদপিণ্ড শরীরে রক্ত সঞ্চালন করে।"
+    },
+    {
+        "word": "Heat",
+        "উচ্চারণ": "হীট",
+        "bangla": "তাপ, গরম করা",
+        "category": "Noun, Verb",
+        "sentence": "The sun gives us light and heat.",
+        "sentenceBangla": "সূর্য আমাদের আলো ও উত্তাপ দেয়।"
+    },
+    {
+        "word": "Heating",
+        "উচ্চারণ": "হীটিং",
+        "bangla": "গরম করার ব্যবস্থা",
+        "category": "Noun",
+        "sentence": "The building has central heating system.",
+        "sentenceBangla": "ভবনটিতে কেন্দ্রীয় গরম করার ব্যবস্থা রয়েছে।"
+    },
+    {
+        "word": "Heaven",
+        "উচ্চারণ": "হেভেন",
+        "bangla": "স্বর্গ, আকাশ",
+        "category": "Noun",
+        "sentence": "Many cultures believe in heaven.",
+        "sentenceBangla": "অনেক সংস্কৃতিই স্বর্গে বিশ্বাস করে।"
+    },
+    {
+        "word": "Heavily",
+        "উচ্চারণ": "হেভিলি",
+        "bangla": "ভারী মাত্রায়, প্রবলাকারে",
+        "category": "Adverb",
+        "sentence": "It is raining heavily outside.",
+        "sentenceBangla": "বাইরে প্রবল বৃষ্টি হচ্ছে।"
+    },
+    {
+        "word": "Heavy",
+        "উচ্চারণ": "হেভি",
+        "bangla": "ভারী",
+        "category": "Adjective",
+        "sentence": "This box is too heavy to lift.",
+        "sentenceBangla": "এই বাক্সটি তোলার জন্য খুব ভারী।"
+    },
+    {
+        "word": "Heel",
+        "উচ্চারণ": "হিল",
+        "bangla": "গোড়ালি",
+        "category": "Noun",
+        "sentence": "He hurt his heel while playing football.",
+        "sentenceBangla": "ফুটবল খেলার সময় সে তার গোড়ালিতে আঘাত পেয়েছিল।"
+    },
+    {
+        "word": "Height",
+        "উচ্চারণ": "হাইট",
+        "bangla": "উচ্চতা",
+        "category": "Noun",
+        "sentence": "What is the height of that building?",
+        "sentenceBangla": "ওই ভবনটির উচ্চতা কত?"
+    },
+    {
+        "word": "Helicopter",
+        "উচ্চারণ": "হেলিকপ্টার",
+        "bangla": "হেলিকপ্টার",
+        "category": "Noun",
+        "sentence": "The rescue team arrived in a helicopter.",
+        "sentenceBangla": "উদ্ধারকারী দল হেলিকপ্টারে করে এসেছিল।"
+    },
+    {
+        "word": "Hell",
+        "উচ্চারণ": "হেল",
+        "bangla": "নরক",
+        "category": "Noun",
+        "sentence": "The place was a total living hell.",
+        "sentenceBangla": "জায়গাটি পুরো জীবন্ত নরক ছিল।"
+    },
+    {
+        "word": "Hello",
+        "উচ্চারণ": "হ্যালো",
+        "bangla": "হ্যালো, ওহে",
+        "category": "Exclamation, Noun",
+        "sentence": "Hello, how are you today?",
+        "sentenceBangla": "হ্যালো, আজ আপনি কেমন আছেন?"
+    },
+    {
+        "word": "Help",
+        "উচ্চারণ": "হেল্প",
+        "bangla": "সাহায্য করা, সাহায্য",
+        "category": "Verb, Noun",
+        "sentence": "Thank you for your help.",
+        "sentenceBangla": "আপনার সাহায্যের জন্য আপনাকে ধন্যবাদ।"
+    },
+    {
+        "word": "Helpful",
+        "উচ্চারণ": "হেল্পফুল",
+        "bangla": "সহায়ক, দরকারী",
+        "category": "Adjective",
+        "sentence": "The staff were very polite and helpful.",
+        "sentenceBangla": "কর্মচারীরা খুব ভদ্র এবং সহায়তাপরায়ণ ছিলেন।"
+    },
+    {
+        "word": "Her",
+        "উচ্চারণ": "হার",
+        "bangla": "তার, তাকে (স্ত্রীলিঙ্গ)",
+        "category": "Pronoun, Determiner",
+        "sentence": "I gave her a book.",
+        "sentenceBangla": "আমি তাকে একটি বই দিয়েছিলাম।"
+    },
+    {
+        "word": "Here",
+        "উচ্চারণ": "হিয়ার",
+        "bangla": "এখানে",
+        "category": "Adverb",
+        "sentence": "Please sit here next to me.",
+        "sentenceBangla": "দয়া করে এখানে আমার পাশে বসুন।"
+    },
+    {
+        "word": "Hero",
+        "উচ্চারণ": "হিরো",
+        "bangla": "বীর, নায়ক",
+        "category": "Noun",
+        "sentence": "He is a true hero of our country.",
+        "sentenceBangla": "তিনি আমাদের দেশের একজন প্রকৃত বীর।"
+    },
+    {
+        "word": "Hers",
+        "উচ্চারণ": "হার্স",
+        "bangla": "তার (স্ত্রীলিঙ্গ - স্বত্বাধিকারী অর্থে)",
+        "category": "Pronoun",
+        "sentence": "This bag is hers, not mine.",
+        "sentenceBangla": "এই ব্যাগটি তার, আমার নয়।"
+    },
+    {
+        "word": "Herself",
+        "উচ্চারণ": "হারসেলফ",
+        "bangla": "সে নিজে (স্ত্রীলিঙ্গ)",
+        "category": "Pronoun",
+        "sentence": "She managed everything by herself.",
+        "sentenceBangla": "সে নিজেই সবকিছু পরিচালনা করেছিল।"
+    },
+    {
+        "word": "Hesitate",
+        "উচ্চারণ": "হেজিটেট",
+        "bangla": "দ্বিধা করা, ইতস্তত করা",
+        "category": "Verb",
+        "sentence": "Don't hesitate to ask for help.",
+        "sentenceBangla": "সাহায্য চাইতে দ্বিধা করবেন না।"
+    },
+    {
+        "word": "Hey",
+        "উচ্চারণ": "হেই",
+        "bangla": "এই!, ওহে!",
+        "category": "Exclamation",
+        "sentence": "Hey! Wait for me.",
+        "sentenceBangla": "এই! আমার জন্য অপেক্ষা করো।"
+    },
+    {
+        "word": "Hi",
+        "উচ্চারণ": "হাই",
+        "bangla": "হাই! (অনানুষ্ঠানিক অভিবাদন)",
+        "category": "Exclamation",
+        "sentence": "Hi, nice to meet you.",
+        "sentenceBangla": "হাই, আপনার সাথে দেখা করে ভালো লাগলো।"
+    },
+    {
+        "word": "Hide",
+        "উচ্চারণ": "হাইড",
+        "bangla": "লুকানো",
+        "category": "Verb",
+        "sentence": "The children love to play hide and seek.",
+        "sentenceBangla": "শিশুরা লুকোচুরি খেলতে ভালোবাসে।"
+    },
+    {
+        "word": "High",
+        "উচ্চারণ": "হাই",
+        "bangla": "উচ্চ, উঁচু",
+        "category": "Adjective, Adverb, Noun",
+        "sentence": "The bird flew high in the sky.",
+        "sentenceBangla": "পাখিটি আকাশে উঁচুতে উড়ে গেল।"
+    },
+    {
+        "word": "Highlight",
+        "উচ্চারণ": "হাইলাইট",
+        "bangla": "হাইলাইট করা, গুরুত্বপূর্ণ অংশ",
+        "category": "Verb, Noun",
+        "sentence": "Please highlight the key words in the text.",
+        "sentenceBangla": "দয়া করে পাঠ্যের মূল শব্দগুলো হাইলাইট করো।"
+    },
+    {
+        "word": "Highly",
+        "উচ্চারণ": "হাইলি",
+        "bangla": "উচ্চমাত্রায়, অত্যন্ত",
+        "category": "Adverb",
+        "sentence": "He is a highly respected professor.",
+        "sentenceBangla": "তিনি একজন অত্যন্ত শ্রদ্ধেয় অধ্যাপক।"
+    },
+    {
+        "word": "Highway",
+        "উচ্চারণ": "হাইওয়ে",
+        "bangla": "মহাসড়ক, হাইওয়ে",
+        "category": "Noun",
+        "sentence": "We drove along the new highway.",
+        "sentenceBangla": "আমরা নতুন মহাসড়ক ধরে গাড়ি চালালাম।"
+    },
+    {
+        "word": "Hill",
+        "উচ্চারণ": "হিল",
+        "bangla": "পাহাড়, টিলা",
+        "category": "Noun",
+        "sentence": "They climbed up to the top of the hill.",
+        "sentenceBangla": "তারা পাহাড়ের চূড়ায় আরোহণ করেছিল।"
+    },
+    {
+        "word": "Him",
+        "উচ্চারণ": "হিম",
+        "bangla": "তাকে (পুরুষবাচক)",
+        "category": "Pronoun",
+        "sentence": "I met him at the station yesterday.",
+        "sentenceBangla": "গতকাল স্টেশনে আমি তার সাথে দেখা করেছি।"
+    },
+    {
+        "word": "Himself",
+        "উচ্চারণ": "হিমসেলফ",
+        "bangla": "সে নিজে (পুরুষবাচক)",
+        "category": "Pronoun",
+        "sentence": "He built this house himself.",
+        "sentenceBangla": "সে নিজেই এই বাড়িটি তৈরি করেছে।"
+    },
+    {
+        "word": "Hire",
+        "উচ্চারণ": "হায়ার",
+        "bangla": "ভাড়া করা, নিয়োগ দেওয়া",
+        "category": "Verb, Noun",
+        "sentence": "They decided to hire a taxi.",
+        "sentenceBangla": "তারা একটি ট্যাক্সি ভাড়া করার সিদ্ধান্ত নিয়েছে।"
+    },
+    {
+        "word": "His",
+        "উচ্চারণ": "হিজ",
+        "bangla": "তার (পুরুষবাচক)",
+        "category": "Determiner, Pronoun",
+        "sentence": "This is his laptop.",
+        "sentenceBangla": "এটি তার ল্যাপটপ।"
+    },
+    {
+        "word": "Historic",
+        "উচ্চারণ": "হিস্টোরিক",
+        "bangla": "ঐতিহাসিক (গুরুত্বপূর্ণ)",
+        "category": "Adjective",
+        "sentence": "Today is a historic day for our nation.",
+        "sentenceBangla": "আজ আমাদের জাতির জন্য একটি ঐতিহাসিক দিন।"
+    },
+    {
+        "word": "Historical",
+        "উচ্চারণ": "হিস্টোরিক্যাল",
+        "bangla": "ঐতিহাসিক (ইতিহাস সংক্রান্ত)",
+        "category": "Adjective",
+        "sentence": "She loves reading historical novels.",
+        "sentenceBangla": "সে ঐতিহাসিক উপন্যাস পড়তে ভালোবাসে।"
+    },
+    {
+        "word": "History",
+        "উচ্চারণ": "হিস্ট্রি",
+        "bangla": "ইতিহাস",
+        "category": "Noun",
+        "sentence": "We can learn many lessons from history.",
+        "sentenceBangla": "আমরা ইতিহাস থেকে অনেক শিক্ষা নিতে পারি।"
+    },
+    {
+        "word": "Hit",
+        "উচ্চারণ": "হিট",
+        "bangla": "আঘাত করা, ধাক্কা দেওয়া, হিট",
+        "category": "Verb, Noun",
+        "sentence": "The car hit a tree.",
+        "sentenceBangla": "গাড়িটি একটি গাছে ধাক্কা মারে।"
+    },
+    {
+        "word": "Hobby",
+        "উচ্চারণ": "হবি",
+        "bangla": "শখ",
+        "category": "Noun",
+        "sentence": "My hobby is collecting coins.",
+        "sentenceBangla": "আমার শখ কয়েন সংগ্রহ করা।"
+    },
+    {
+        "word": "Hockey",
+        "উচ্চারণ": "হকি",
+        "bangla": "হকি",
+        "category": "Noun",
+        "sentence": "He plays hockey for the school team.",
+        "sentenceBangla": "সে স্কুলের দলের হয়ে হকি খেলে।"
+    },
+    {
+        "word": "Hold",
+        "উচ্চারণ": "হোল্ড",
+        "bangla": "ধরে রাখা, আয়োজন করা, ধরা",
+        "category": "Verb, Noun",
+        "sentence": "Please hold my bag for a moment.",
+        "sentenceBangla": "দয়া করে এক মুহূর্তের জন্য আমার ব্যাগটি ধরো।"
+    },
+    {
+        "word": "Hole",
+        "উচ্চারণ": "হোল",
+        "bangla": "গর্ত, ছিদ্র",
+        "category": "Noun",
+        "sentence": "There is a hole in my pocket.",
+        "sentenceBangla": "আমার পকেটে একটি গর্ত আছে।"
+    },
+    {
+        "word": "Holiday",
+        "উচ্চারণ": "হলিডে",
+        "bangla": "ছুটির দিন",
+        "category": "Noun",
+        "sentence": "We are going to Cox's Bazar for a holiday.",
+        "sentenceBangla": "আমরা ছুটির জন্য কক্সবাজার যাচ্ছি।"
+    },
+    {
+        "word": "Hollow",
+        "উচ্চারণ": "হলো",
+        "bangla": "ফাঁপা, শূন্য",
+        "category": "Adjective",
+        "sentence": "Bamboo is a hollow plant.",
+        "sentenceBangla": "বাঁশ একটি ফাঁপা উদ্ভিদ।"
+    },
+    {
+        "word": "Holy",
+        "উচ্চারণ": "হোলি",
+        "bangla": "পবিত্র",
+        "category": "Adjective",
+        "sentence": "The Quran is a holy book.",
+        "sentenceBangla": "কোরআন একটি পবিত্র গ্রন্থ।"
+    },
+    {
+        "word": "Home",
+        "উচ্চারণ": "হোম",
+        "bangla": "বাড়ি, গৃহ",
+        "category": "Noun, Adverb, Adjective",
+        "sentence": "There is no place like home.",
+        "sentenceBangla": "বাড়ির মতো কোনো জায়গা নেই।"
+    },
+    {
+        "word": "Homework",
+        "উচ্চারণ": "হোমওয়ার্ক",
+        "bangla": "বাড়ির কাজ, হোমওয়ার্ক",
+        "category": "Noun",
+        "sentence": "Finish your homework before watching TV.",
+        "sentenceBangla": "টিভি দেখার আগে তোমার বাড়ির কাজ শেষ করো।"
+    },
+    {
+        "word": "Honest",
+        "উচ্চারণ": "অনেস্ট",
+        "bangla": "সৎ",
+        "category": "Adjective",
+        "sentence": "An honest man is respected by everyone.",
+        "sentenceBangla": "একজন সৎ মানুষ সবার দ্বারা সমাদৃত হয়।"
+    },
+    {
+        "word": "Honey",
+        "উচ্চারণ": "হানি",
+        "bangla": "মধু",
+        "category": "Noun",
+        "sentence": "Honey is naturally sweet and healthy.",
+        "sentenceBangla": "মধু প্রাকৃতিকভাবেই মিষ্টি এবং স্বাস্থ্যকর।"
+    },
+    {
+        "word": "Honour",
+        "উচ্চারণ": "অনার",
+        "bangla": "সম্মান, সম্মান করা",
+        "category": "Noun, Verb",
+        "sentence": "It is an honour to meet you.",
+        "sentenceBangla": "আপনার সাথে দেখা করা একটি সম্মানের বিষয়।"
+    },
+    {
+        "word": "Hope",
+        "উচ্চারণ": "হোপ",
+        "bangla": "আশা করা, আশা",
+        "category": "Verb, Noun",
+        "sentence": "I hope you win the competition.",
+        "sentenceBangla": "আমি আশা করি তুমি প্রতিযোগিতায় জিতবে।"
+    },
+    {
+        "word": "Horrible",
+        "উচ্চারণ": "হরিবল",
+        "bangla": "ভয়ানক, জঘন্য",
+        "category": "Adjective",
+        "sentence": "The weather was absolutely horrible.",
+        "sentenceBangla": "আবহাওয়াটি একেবারে জঘন্য ছিল।"
+    },
+    {
+        "word": "Horror",
+        "উচ্চারণ": "হরর",
+        "bangla": "হরর, আতঙ্ক, ভয়",
+        "category": "Noun",
+        "sentence": "She doesn't like watching horror movies.",
+        "sentenceBangla": "সে হরর সিনেমা দেখতে পছন্দ করে না।"
+    },
+    {
+        "word": "Horse",
+        "উচ্চারণ": "হোর্স",
+        "bangla": "ঘোড়া",
+        "category": "Noun",
+        "sentence": "He can ride a horse very well.",
+        "sentenceBangla": "সে খুব ভালো ঘোড়ায় চড়তে পারে।"
+    },
+    {
+        "word": "Hospital",
+        "উচ্চারণ": "হসপিটাল",
+        "bangla": "হাসপাতাল",
+        "category": "Noun",
+        "sentence": "The injured person was taken to the hospital.",
+        "sentenceBangla": "আহত ব্যক্তিকে হাসপাতালে নিয়ে যাওয়া হয়।"
+    },
+    {
+        "word": "Host",
+        "উচ্চারণ": "হোস্ট",
+        "bangla": "হোস্ট, আয়োজক, অতিথি সেবা করা",
+        "category": "Noun, Verb",
+        "sentence": "Our host was very welcoming.",
+        "sentenceBangla": "আমাদের হোস্ট খুব অমায়িক ছিলেন।"
+    },
+    {
+        "word": "Hot",
+        "উচ্চারণ": "হট",
+        "bangla": "গরম, উত্তপ্ত",
+        "category": "Adjective",
+        "sentence": "Be careful, the tea is very hot.",
+        "sentenceBangla": "সাবধান, চা খুব গরম।"
+    },
+    {
+        "word": "Hotel",
+        "উচ্চারণ": "হোটেল",
+        "bangla": "হোটেল",
+        "category": "Noun",
+        "sentence": "They stayed at a luxury hotel.",
+        "sentenceBangla": "তারা একটি বিলাসবহুল হোটেলে ছিলেন।"
+    },
+    {
+        "word": "Hour",
+        "উচ্চারণ": "আওয়ার",
+        "bangla": "ঘণ্টা",
+        "category": "Noun",
+        "sentence": "The class lasts for one hour.",
+        "sentenceBangla": "ক্লাসটি এক ঘণ্টা স্থায়ী হয়।"
+    },
+    {
+        "word": "House",
+        "উচ্চারণ": "হাউস",
+        "bangla": "বাড়ি, ঘর",
+        "category": "Noun, Verb",
+        "sentence": "They live in a large house.",
+        "sentenceBangla": "তারা একটি বড় বাড়িতে থাকে।"
+    },
+    {
+        "word": "Household",
+        "উচ্চারণ": "হাউসহোল্ড",
+        "bangla": "গৃহস্থালি, পরিবার",
+        "category": "Noun, Adjective",
+        "sentence": "Most households now own a TV.",
+        "sentenceBangla": "অধিকাংশ পরিবারে এখন একটি করে টিভি আছে।"
+    },
+    {
+        "word": "Housing",
+        "উচ্চারণ": "হাউজিং",
+        "bangla": "আবাসন",
+        "category": "Noun",
+        "sentence": "The city is facing a housing shortage.",
+        "sentenceBangla": "শহরে আবাসন সংকট দেখা দিচ্ছে।"
+    },
+    {
+        "word": "How",
+        "উচ্চারণ": "হাউ",
+        "bangla": "কীভাবে, কেমন",
+        "category": "Adverb, Conjunction",
+        "sentence": "How do you solve this problem?",
+        "sentenceBangla": "তুমি কীভাবে এই সমস্যাটি সমাধান করবে?"
+    },
+    {
+        "word": "However",
+        "উচ্চারণ": "হাউএভার",
+        "bangla": "যা-ই হোক, তবুও",
+        "category": "Adverb",
+        "sentence": "He was tired; however, he kept working.",
+        "sentenceBangla": "সে ক্লান্ত ছিল; তবুও, সে কাজ করে গেল।"
+    },
+    {
+        "word": "Huge",
+        "উচ্চারণ": "হিউজ",
+        "bangla": "বিশাল, অনেক বড়",
+        "category": "Adjective",
+        "sentence": "A huge crowd gathered to see the singer.",
+        "sentenceBangla": "গায়ককে দেখতে বিশাল ভিড় জমেছিল।"
+    },
+    {
+        "word": "Human",
+        "উচ্চারণ": "হিউম্যান",
+        "bangla": "মানব, মানুষ",
+        "category": "Adjective, Noun",
+        "sentence": "To err is human.",
+        "sentenceBangla": "মানুষ মাত্রই ভুল হয়।"
+    },
+    {
+        "word": "Humorous",
+        "উচ্চারণ": "হিউমারাস",
+        "bangla": "হাস্যরসাত্মক, মজাদার",
+        "category": "Adjective",
+        "sentence": "He told a very humorous story.",
+        "sentenceBangla": "সে খুব মজাদার একটি গল্প বলেছিল।"
+    },
+    {
+        "word": "Humour",
+        "উচ্চারণ": "হিউমার",
+        "bangla": "হাস্যরস",
+        "category": "Noun",
+        "sentence": "I like his sense of humour.",
+        "sentenceBangla": "আমি তার রসবোধ পছন্দ করি।"
+    },
+    {
+        "word": "Hundred",
+        "উচ্চারণ": "হানড্রেড",
+        "bangla": "একশত, একশ",
+        "category": "Number",
+        "sentence": "There were a hundred people at the party.",
+        "sentenceBangla": "অনুষ্ঠানে একশত মানুষ উপস্থিত ছিলেন।"
+    },
+    {
+        "word": "Hungry",
+        "উচ্চারণ": "হাংরি",
+        "bangla": "ক্ষুধার্ত",
+        "category": "Adjective",
+        "sentence": "The hungry child started crying.",
+        "sentenceBangla": "ক্ষুধার্ত শিশুটি কাঁদতে শুরু করল।"
+    },
+    {
+        "word": "Hunt",
+        "উচ্চারণ": "হান্ট",
+        "bangla": "শিকার করা, খোঁজা",
+        "category": "Verb, Noun",
+        "sentence": "Some animals hunt at night.",
+        "sentenceBangla": "কিছু প্রাণী রাতে শিকার করে।"
+    },
+    {
+        "word": "Hunting",
+        "উচ্চারণ": "হান্টিং",
+        "bangla": "শিকার",
+        "category": "Noun",
+        "sentence": "Tiger hunting is illegal now.",
+        "sentenceBangla": "বাঘ শিকার করা এখন অবৈধ।"
+    },
+    {
+        "word": "Hurry",
+        "উচ্চারণ": "হারি",
+        "bangla": "তাড়া করা, জলদি করা, তাড়াহুড়ো",
+        "category": "Verb, Noun",
+        "sentence": "Hurry up, or we will miss the train.",
+        "sentenceBangla": "তাড়াতাড়ি করো, না হলে আমরা ট্রেনটি মিস করব।"
+    },
+    {
+        "word": "Hurt",
+        "উচ্চারণ": "হার্ট",
+        "bangla": "আঘাত করা, কষ্ট দেওয়া, আহত",
+        "category": "Verb, Adjective",
+        "sentence": "Did you hurt yourself?",
+        "sentenceBangla": "তুমি কি নিজের গায়ে চোট পেয়েছ?"
+    },
+    {
+        "word": "Husband",
+        "উচ্চারণ": "হাজব্যান্ড",
+        "bangla": "স্বামী",
+        "category": "Noun",
+        "sentence": "Her husband works at a bank.",
+        "sentenceBangla": "তার স্বামী একটি ব্যাংকে কাজ করেন।"
+    },
+    {
+        "word": "I",
+        "উচ্চারণ": "আই",
+        "bangla": "আমি",
+        "category": "Pronoun",
+        "sentence": "I am a student.",
+        "sentenceBangla": "আমি একজন ছাত্র।"
+    },
+    {
+        "word": "Ice",
+        "উচ্চারণ": "আইস",
+        "bangla": "বরফ",
+        "category": "Noun",
+        "sentence": "Ice melts in heat.",
+        "sentenceBangla": "তাপে বরফ গলে যায়।"
+    },
+    {
+        "word": "Ice cream",
+        "উচ্চারণ": "আইস ক্রিম",
+        "bangla": "আইসক্রিম",
+        "category": "Noun",
+        "sentence": "Children love ice cream.",
+        "sentenceBangla": "শিশুরা আইসক্রিম পছন্দ করে।"
+    },
+    {
+        "word": "Idea",
+        "উচ্চারণ": "আইডিয়া",
+        "bangla": "ধারণা, বুদ্ধি",
+        "category": "Noun",
+        "sentence": "That is a great idea.",
+        "sentenceBangla": "ওটা একটা দারুণ বুদ্ধি।"
+    },
+    {
+        "word": "Ideal",
+        "উচ্চারণ": "আইডিয়াল",
+        "bangla": "আদর্শ",
+        "category": "Adjective",
+        "sentence": "This is an ideal place for a picnic.",
+        "sentenceBangla": "এটি পিকনিকের জন্য একটি আদর্শ জায়গা।"
+    },
+    {
+        "word": "Identify",
+        "উচ্চারণ": "আইডেন্টিফাই",
+        "bangla": "শনাক্ত করা",
+        "category": "Verb",
+        "sentence": "Can you identify this person?",
+        "sentenceBangla": "আপনি কি এই ব্যক্তিকে শনাক্ত করতে পারেন?"
+    },
+    {
+        "word": "Identity",
+        "উচ্চারণ": "আইডেন্টিটি",
+        "bangla": "পরিচয়",
+        "category": "Noun",
+        "sentence": "Please check their identity.",
+        "sentenceBangla": "অনুগ্রহ করে তাদের পরিচয় পরীক্ষা করুন।"
+    },
+    {
+        "word": "If",
+        "উচ্চারণ": "ইফ",
+        "bangla": "যদি",
+        "category": "Conjunction",
+        "sentence": "If it rains, we will stay home.",
+        "sentenceBangla": "যদি বৃষ্টি হয়, আমরা বাড়িতে থাকব।"
+    },
+    {
+        "word": "Ignore",
+        "উচ্চারণ": "ইগনোর",
+        "bangla": "উপেক্ষা করা, অবজ্ঞা করা",
+        "category": "Verb",
+        "sentence": "Do not ignore good advice.",
+        "sentenceBangla": "ভালো উপদেশ উপেক্ষা করো না।"
+    },
+    {
+        "word": "Ill",
+        "উচ্চারণ": "ইল",
+        "bangla": "অসুস্থ",
+        "category": "Adjective",
+        "sentence": "He has been ill for two days.",
+        "sentenceBangla": "সে দুই দিন ধরে অসুস্থ।"
+    },
+    {
+        "word": "Illegal",
+        "উচ্চারণ": "ইললিগ্যাল",
+        "bangla": "অবৈধ, বেআইনি",
+        "category": "Adjective",
+        "sentence": "Driving without a license is illegal.",
+        "sentenceBangla": "লাইসেন্স ছাড়া গাড়ি চালানো বেআইনি।"
+    },
+    {
+        "word": "Illness",
+        "উচ্চারণ": "ইলনেস",
+        "bangla": "অসুস্থতা, রোগ",
+        "category": "Noun",
+        "sentence": "She recovered from her illness.",
+        "sentenceBangla": "সে তার অসুস্থতা থেকে সেরে উঠেছে।"
+    },
+    {
+        "word": "Illustrate",
+        "উচ্চারণ": "ইলাস্ট্রেট",
+        "bangla": "চিত্রিত করা, ব্যাখ্যা করা",
+        "category": "Verb",
+        "sentence": "The book is illustrated with drawings.",
+        "sentenceBangla": "বইটি ছবির মাধ্যমে ব্যাখ্যা করা হয়েছে।"
+    },
+    {
+        "word": "Illustration",
+        "উচ্চারণ": "ইলাস্ট্রেশন",
+        "bangla": "দৃষ্টান্ত, চিত্রণ",
+        "category": "Noun",
+        "sentence": "This diagram is a good illustration.",
+        "sentenceBangla": "এই চিত্রটি একটি ভালো দৃষ্টান্ত।"
+    },
+    {
+        "word": "Image",
+        "উচ্চারণ": "ইমেজ",
+        "bangla": "ছবি, প্রতিচ্ছবি",
+        "category": "Noun",
+        "sentence": "The mirror showed a clear image.",
+        "sentenceBangla": "আয়নাটি একটি পরিষ্কার প্রতিচ্ছবি দেখালো।"
+    },
+    {
+        "word": "Imagination",
+        "উচ্চারণ": "ইমাজিনেশন",
+        "bangla": "কল্পনা, কল্পনাশক্তি",
+        "category": "Noun",
+        "sentence": "Children have a vivid imagination.",
+        "sentenceBangla": "শিশুদের এক প্রাণবন্ত কল্পনাশক্তি থাকে।"
+    },
+    {
+        "word": "Imagine",
+        "উচ্চারণ": "ইমাজিন",
+        "bangla": "কল্পনা করা",
+        "category": "Verb",
+        "sentence": "Imagine living on the moon.",
+        "sentenceBangla": "চাঁদে বাস করার কথা কল্পনা করো।"
+    },
+    {
+        "word": "Immediate",
+        "উচ্চারণ": "ইমিডিয়েট",
+        "bangla": "তাত্ক্ষণিক, অবিলম্ব",
+        "category": "Adjective",
+        "sentence": "This problem needs immediate attention.",
+        "sentenceBangla": "এই সমস্যাটিতে তাত্ক্ষণিক মনোযোগ প্রয়োজন।"
+    },
+    {
+        "word": "Immediately",
+        "উচ্চারণ": "ইমিডিয়েটলি",
+        "bangla": "তাত্ক্ষণিকভাবে, অবিলম্বে",
+        "category": "Adverb",
+        "sentence": "Please come here immediately.",
+        "sentenceBangla": "অনুগ্রহ করে অবিলম্বে এখানে আসুন।"
+    },
+    {
+        "word": "Immigrant",
+        "উচ্চারণ": "ইমিগ্র্যান্ট",
+        "bangla": "অভিবাসী",
+        "category": "Noun",
+        "sentence": "He is an immigrant from Bangladesh.",
+        "sentenceBangla": "তিনি বাংলাদেশ থেকে আসা একজন অভিবাসী।"
+    },
+    {
+        "word": "Impact",
+        "উচ্চারণ": "ইমপ্যাক্ট",
+        "bangla": "প্রভাব, ধাক্কা",
+        "category": "Noun",
+        "sentence": "The internet has a huge impact on our lives.",
+        "sentenceBangla": "ইন্টারনেট আমাদের জীবনে একটি বিশাল প্রভাব ফেলেছে।"
+    },
+    {
+        "word": "Impatient",
+        "উচ্চারণ": "ইমপেশেন্ট",
+        "bangla": "অসহিষ্ণু, অধৈর্য",
+        "category": "Adjective",
+        "sentence": "Don't be so impatient.",
+        "sentenceBangla": "এত অধৈর্য হয়ো না।"
+    },
+    {
+        "word": "Imply",
+        "উচ্চারণ": "ইমপ্লাই",
+        "bangla": "ইঙ্গিত করা, অর্থ প্রকাশ করা",
+        "category": "Verb",
+        "sentence": "What do you imply by that remark?",
+        "sentenceBangla": "ঐ মন্তব্য দ্বারা আপনি কী ইঙ্গিত করছেন?"
+    },
+    {
+        "word": "Import",
+        "উচ্চারণ": "ইমপোর্ট",
+        "bangla": "আমদানি করা, আমদানি",
+        "category": "Verb, Noun",
+        "sentence": "We import oil from other countries.",
+        "sentenceBangla": "আমরা অন্য দেশ থেকে তেল আমদানি করি।"
+    },
+    {
+        "word": "Importance",
+        "উচ্চারণ": "ইমপোর্টেন্স",
+        "bangla": "গুরুত্ব",
+        "category": "Noun",
+        "sentence": "Education is of great importance.",
+        "sentenceBangla": "শিক্ষার গুরুত্ব অপরিসীম।"
+    },
+    {
+        "word": "Important",
+        "উচ্চারণ": "ইমপোর্টেন্ট",
+        "bangla": "গুরুত্বপূর্ণ",
+        "category": "Adjective",
+        "sentence": "Health is very important.",
+        "sentenceBangla": "স্বাস্থ্য খুবই গুরুত্বপূর্ণ।"
+    },
+    {
+        "word": "Impose",
+        "উচ্চারণ": "ইমপোজ",
+        "bangla": "আরোপ করা, চাপিয়ে দেওয়া",
+        "category": "Verb",
+        "sentence": "The government may impose new taxes.",
+        "sentenceBangla": "সরকার নতুন কর আরোপ করতে পারে।"
+    },
+    {
+        "word": "Impossible",
+        "উচ্চারণ": "ইমপসিবল",
+        "bangla": "অসম্ভব",
+        "category": "Adjective",
+        "sentence": "Nothing is impossible.",
+        "sentenceBangla": "কোনো কিছুই অসম্ভব নয়।"
+    },
+    {
+        "word": "Impress",
+        "উচ্চারণ": "ইম্প্রেস",
+        "bangla": "অভিভূত করা, প্রভাবিত করা",
+        "category": "Verb",
+        "sentence": "He tried to impress his boss.",
+        "sentenceBangla": "সে তার বসকে প্রভাবিত করার চেষ্টা করেছিল।"
+    },
+    {
+        "word": "Impressed",
+        "উচ্চারণ": "ইম্প্রেসড",
+        "bangla": "অভিভূত, মুগ্ধ",
+        "category": "Adjective",
+        "sentence": "I was impressed by her speech.",
+        "sentenceBangla": "আমি তার বক্তৃতায় মুগ্ধ হয়েছিলাম।"
+    },
+    {
+        "word": "Impression",
+        "উচ্চারণ": "ইম্প্রেশন",
+        "bangla": "ধারণা, ছাপ",
+        "category": "Noun",
+        "sentence": "First impression is very crucial.",
+        "sentenceBangla": "প্রথম ধারণা বা ছাপ খুবই গুরুত্বপূর্ণ।"
+    },
+    {
+        "word": "Impressive",
+        "উচ্চারণ": "ইম্প্রেসিভ",
+        "bangla": "চিত্তাকর্ষক, চমৎকার",
+        "category": "Adjective",
+        "sentence": "The building has an impressive design.",
+        "sentenceBangla": "ভবনটির একটি চিত্তাকর্ষক নকশা রয়েছে।"
+    },
+    {
+        "word": "Improve",
+        "উচ্চারণ": "ইম্প্রুভ",
+        "bangla": "উন্নতি করা, উন্নত হওয়া",
+        "category": "Verb",
+        "sentence": "You need to improve your English.",
+        "sentenceBangla": "তোমার ইংরেজির উন্নতি করা দরকার।"
+    },
+    {
+        "word": "Improvement",
+        "উচ্চারণ": "ইম্প্রুভমেন্ট",
+        "bangla": "উন্নতি, প্রগতি",
+        "category": "Noun",
+        "sentence": "There is an improvement in his health.",
+        "sentenceBangla": "তার স্বাস্থ্যের উন্নতি হয়েছে।"
+    },
+    {
+        "word": "In",
+        "উচ্চারণ": "ইন",
+        "bangla": "ভেতরে, মধ্যে, এ, তে",
+        "category": "Preposition",
+        "sentence": "The keys are in the bag.",
+        "sentenceBangla": "চাবিগুলো ব্যাগের মধ্যে আছে।"
+    },
+    {
+        "word": "Incentive",
+        "উচ্চারণ": "ইনসেনটিভ",
+        "bangla": "উত্সাহ, উদ্দীপক",
+        "category": "Noun",
+        "sentence": "The company offers a cash incentive.",
+        "sentenceBangla": "কোম্পানিটি নগদ উৎসাহ ভাতা অফার করে।"
+    },
+    {
+        "word": "Incident",
+        "উচ্চারণ": "ইনসিডেন্ট",
+        "bangla": "ঘটনা",
+        "category": "Noun",
+        "sentence": "The police are investigating the incident.",
+        "sentenceBangla": "পুলিশ ঘটনাটি তদন্ত করছে।"
+    },
+    {
+        "word": "Include",
+        "উচ্চারণ": "ইনক্লুড",
+        "bangla": "অন্তর্ভুক্ত করা",
+        "category": "Verb",
+        "sentence": "The price includes tax.",
+        "sentenceBangla": "দামের মধ্যে কর অন্তর্ভুক্ত রয়েছে।"
+    },
+    {
+        "word": "Included",
+        "উচ্চারণ": "ইনক্লুডেড",
+        "bangla": "অন্তর্ভুক্ত",
+        "category": "Adjective",
+        "sentence": "Service charge is included in the bill.",
+        "sentenceBangla": "সার্ভিস চার্জ বিলের অন্তর্ভুক্ত।"
+    },
+    {
+        "word": "Including",
+        "উচ্চারণ": "ইনক্লুডিং",
+        "bangla": "সহ, সমেত, অন্তর্ভুক্ত করে",
+        "category": "Preposition",
+        "sentence": "Six people died, including two children.",
+        "sentenceBangla": "দুই শিশুসহ ছয়জন মারা গেছে।"
+    },
+    {
+        "word": "Income",
+        "উচ্চারণ": "ইনকাম",
+        "bangla": "আয়, উপার্জন",
+        "category": "Noun",
+        "sentence": "His monthly income is high.",
+        "sentenceBangla": "তার মাসিক আয় অনেক।"
+    },
+    {
+        "word": "Incorporate",
+        "উচ্চারণ": "ইনকর্পোরেট",
+        "bangla": "সংযুক্ত করা, অন্তর্ভুক্ত করা",
+        "category": "Verb",
+        "sentence": "We should incorporate new ideas.",
+        "sentenceBangla": "আমাদের নতুন ধারণাগুলো অন্তর্ভুক্ত করা উচিত।"
+    },
+    {
+        "word": "Incorrect",
+        "উচ্চারণ": "ইনকারেক্ট",
+        "bangla": "ভুল, অশুদ্ধ",
+        "category": "Adjective",
+        "sentence": "Your answer is incorrect.",
+        "sentenceBangla": "তোমার উত্তরটি ভুল।"
+    },
+    {
+        "word": "Increase",
+        "উচ্চারণ": "ইনক্রিস",
+        "bangla": "বৃদ্ধি করা, বৃদ্ধি পাওয়া, বৃদ্ধি",
+        "category": "Verb, Noun",
+        "sentence": "The price of rice will increase.",
+        "sentenceBangla": "চালের দাম বৃদ্ধি পাবে।"
+    },
+    {
+        "word": "Increased",
+        "উচ্চারণ": "ইনক্রিসড",
+        "bangla": "বর্ধিত, বৃদ্ধিপ্রাপ্ত",
+        "category": "Adjective",
+        "sentence": "There is an increased demand for laptops.",
+        "sentenceBangla": "ল্যাপটপের বর্ধিত চাহিদা রয়েছে।"
+    },
+    {
+        "word": "Increasingly",
+        "উচ্চারণ": "ইনক্রিসিংলি",
+        "bangla": "ক্রমবর্ধমানভাবে",
+        "category": "Adverb",
+        "sentence": "The test is becoming increasingly difficult.",
+        "sentenceBangla": "পরীক্ষাটি ক্রমবর্ধমানভাবে কঠিন হয়ে উঠছে।"
+    },
+    {
+        "word": "Incredible",
+        "উচ্চারণ": "ইনক্রেডিবল",
+        "bangla": "অবিশ্বাস্য, অসাধারণ",
+        "category": "Adjective",
+        "sentence": "The scenery was incredible.",
+        "sentenceBangla": "দৃশ্যটি অবিশ্বাস্য ছিল।"
+    },
+    {
+        "word": "Incredibly",
+        "উচ্চারণ": "ইনক্রেডিবলি",
+        "bangla": "অবিশ্বাস্যভাবে",
+        "category": "Adverb",
+        "sentence": "The food was incredibly delicious.",
+        "sentenceBangla": "খাবারটি অবিশ্বাস্যভাবে সুস্বাদু ছিল।"
+    },
+    {
+        "word": "Indeed",
+        "উচ্চারণ": "ইনডিড",
+        "bangla": "প্রকৃতপক্ষে, সত্যিই",
+        "category": "Adverb",
+        "sentence": "Thank you very much indeed.",
+        "sentenceBangla": "আপনাকে আসলেই অনেক ধন্যবাদ।"
+    },
+    {
+        "word": "Independence",
+        "উচ্চারণ": "ইনডিপেনডেন্স",
+        "bangla": "স্বাধীনতা",
+        "category": "Noun",
+        "sentence": "We celebrate our independence day.",
+        "sentenceBangla": "আমরা আমাদের স্বাধীনতা দিবস উদযাপন করি।"
+    },
+    {
+        "word": "Independent",
+        "উচ্চারণ": "ইনডিপেনডেন্ট",
+        "bangla": "স্বাধীন, স্বনির্ভর",
+        "category": "Adjective",
+        "sentence": "Bangladesh is an independent country.",
+        "sentenceBangla": "বাংলাদেশ একটি স্বাধীন দেশ।"
+    },
+    {
+        "word": "Index",
+        "উচ্চারণ": "ইনডেক্স",
+        "bangla": "সূচক, নির্ঘণ্ট",
+        "category": "Noun",
+        "sentence": "Look at the index at the back of the book.",
+        "sentenceBangla": "বইয়ের পিছনের সূচকটি দেখুন।"
+    },
+    {
+        "word": "Indicate",
+        "উচ্চারণ": "ইনডিকেট",
+        "bangla": "নির্দেশ করা, ইঙ্গিত করা",
+        "category": "Verb",
+        "sentence": "Red signs indicate danger.",
+        "sentenceBangla": "লাল চিহ্ন বিপদ নির্দেশ করে।"
+    },
+    {
+        "word": "Indication",
+        "উচ্চারণ": "ইনডিকেশন",
+        "bangla": "ইঙ্গিত, লক্ষণ",
+        "category": "Noun",
+        "sentence": "There is no indication of rain.",
+        "sentenceBangla": "বৃষ্টির কোনো লক্ষণ নেই।"
+    },
+    {
+        "word": "Indicator",
+        "উচ্চারণ": "ইনডিকেটর",
+        "bangla": "নির্দেশক",
+        "category": "Noun",
+        "sentence": "The economic indicators are good.",
+        "sentenceBangla": "অর্থনৈতিক নির্দেশকগুলো ভালো।"
+    },
+    {
+        "word": "Individual",
+        "উচ্চারণ": "ইনডিভিজুয়াল",
+        "bangla": "ব্যক্তিগত, পৃথক, ব্যক্তি",
+        "category": "Adjective, Noun",
+        "sentence": "Each individual has different skills.",
+        "sentenceBangla": "প্রত্যেক ব্যক্তির আলাদা দক্ষতা থাকে।"
+    },
+    {
+        "word": "Indoor",
+        "উচ্চারণ": "ইনডোর",
+        "bangla": "অভ্যন্তরীণ, ঘরের ভেতরের",
+        "category": "Adjective",
+        "sentence": "Chess is an indoor game.",
+        "sentenceBangla": "দাবা একটি ঘরের ভেতরের খেলা।"
+    },
+    {
+        "word": "Indoors",
+        "উচ্চারণ": "ইনডোরস",
+        "bangla": "ঘরের ভেতরে",
+        "category": "Adverb",
+        "sentence": "Please stay indoors during the storm.",
+        "sentenceBangla": "ঝড়ের সময় ঘরের ভেতরে থাকুন।"
+    },
+    {
+        "word": "Industrial",
+        "উচ্চারণ": "ইনডাস্ট্রিয়াল",
+        "bangla": "শিল্পজাত, শিল্প সংক্রান্ত",
+        "category": "Adjective",
+        "sentence": "This is an industrial area.",
+        "sentenceBangla": "এটি একটি শিল্প এলাকা।"
+    },
+    {
+        "word": "Industry",
+        "উচ্চারণ": "ইনডাস্ট্রি",
+        "bangla": "শিল্প, পরিশ্রম",
+        "category": "Noun",
+        "sentence": "The garment industry is growing.",
+        "sentenceBangla": "পোশাক শিল্প বৃদ্ধি পাচ্ছে।"
+    },
+    {
+        "word": "Inevitable",
+        "উচ্চারণ": "ইনেভিটেবল",
+        "bangla": "অনিবার্য, অবধারিত",
+        "category": "Adjective",
+        "sentence": "Death is inevitable.",
+        "sentenceBangla": "মৃত্যু অনিবার্য।"
+    },
+    {
+        "word": "Inevitably",
+        "উচ্চারণ": "ইনেভিটেবলি",
+        "bangla": "অনিবার্যভাবে",
+        "category": "Adverb",
+        "sentence": "Mistakes will inevitably happen.",
+        "sentenceBangla": "ভুল অনিবার্যভাবেই ঘটবে।"
+    },
+    {
+        "word": "Infant",
+        "উচ্চারণ": "ইনফ্যান্ট",
+        "bangla": "শিশু, নবজাতক",
+        "category": "Noun",
+        "sentence": "The infant was sleeping peacefully.",
+        "sentenceBangla": "শিশুটি শান্তভাবে ঘুমাচ্ছিল।"
+    },
+    {
+        "word": "Infect",
+        "উচ্চারণ": "ইনফেক্ট",
+        "bangla": "সংক্রমিত করা",
+        "category": "Verb",
+        "sentence": "The virus can infect anyone.",
+        "sentenceBangla": "ভাইরাসটি যে কাউকে সংক্রমিত করতে পারে।"
+    },
+    {
+        "word": "Infection",
+        "উচ্চারণ": "ইনফেকশন",
+        "bangla": "সংক্রমণ",
+        "category": "Noun",
+        "sentence": "He has a throat infection.",
+        "sentenceBangla": "তার গলায় সংক্রমণ হয়েছে।"
+    },
+    {
+        "word": "Infer",
+        "উচ্চারণ": "ইনফার",
+        "bangla": "অনুমান করা, সিদ্ধান্ত নেওয়া",
+        "category": "Verb",
+        "sentence": "What can you infer from this story?",
+        "sentenceBangla": "এই গল্প থেকে আপনি কী অনুমান করতে পারেন?"
+    },
+    {
+        "word": "Inflation",
+        "উচ্চারণ": "ইনফ্লেশন",
+        "bangla": "মুদ্রাস্ফীতি",
+        "category": "Noun",
+        "sentence": "Inflation is rising this year.",
+        "sentenceBangla": "এই বছর মুদ্রাস্ফীতি বাড়ছে।"
+    },
+    {
+        "word": "Influence",
+        "উচ্চারণ": "ইনফ্লুয়েন্স",
+        "bangla": "প্রভাব, প্রভাবিত করা",
+        "category": "Noun, Verb",
+        "sentence": "Peer pressure can influence teenagers.",
+        "sentenceBangla": "সহপাঠীদের চাপ কিশোর-কিশোরীদের প্রভাবিত করতে পারে।"
+    },
+    {
+        "word": "Influential",
+        "উচ্চারণ": "ইনফ্লুয়েনশিয়াল",
+        "bangla": "প্রভাবশালী",
+        "category": "Adjective",
+        "sentence": "He is an influential leader.",
+        "sentenceBangla": "তিনি একজন প্রভাবশালী নেতা।"
+    },
+    {
+        "word": "Inform",
+        "উচ্চারণ": "ইনফর্ম",
+        "bangla": "জানানো, তথ্য দেওয়া",
+        "category": "Verb",
+        "sentence": "Please inform me about the results.",
+        "sentenceBangla": "অনুগ্রহ করে আমাকে ফলাফল সম্পর্কে জানান।"
+    },
+    {
+        "word": "Informal",
+        "উচ্চারণ": "ইনফরমাল",
+        "bangla": "অনানুষ্ঠানিক",
+        "category": "Adjective",
+        "sentence": "'Yeah' is an informal word.",
+        "sentenceBangla": "'Yeah' একটি অনানুষ্ঠানিক শব্দ।"
+    },
+    {
+        "word": "Information",
+        "উচ্চারণ": "ইনফরমেশন",
+        "bangla": "তথ্য",
+        "category": "Noun",
+        "sentence": "I need more information about this project.",
+        "sentenceBangla": "এই প্রকল্প সম্পর্কে আমার আরও তথ্য প্রয়োজন।"
+    },
+    {
+        "word": "Infrastructure",
+        "উচ্চারণ": "ইনফ্রাস্ট্রাকচার",
+        "bangla": "অবকাঠামো",
+        "category": "Noun",
+        "sentence": "The country needs better infrastructure.",
+        "sentenceBangla": "দেশের আরও ভালো অবকাঠামো প্রয়োজন।"
+    },
+    {
+        "word": "Ingredient",
+        "উচ্চারণ": "ইনগ্রিডিয়েন্ট",
+        "bangla": "উপাদান",
+        "category": "Noun",
+        "sentence": "Flour is the main ingredient of bread.",
+        "sentenceBangla": "ময়দা রুটির প্রধান উপাদান।"
+    },
+    {
+        "word": "Initial",
+        "উচ্চারণ": "ইনিশিয়াল",
+        "bangla": "প্রাথমিক, শুরুর, নামের প্রথম অক্ষর",
+        "category": "Adjective, Noun",
+        "sentence": "My initial reaction was surprise.",
+        "sentenceBangla": "আমার প্রাথমিক প্রতিক্রিয়া ছিল বিস্ময়।"
+    },
+    {
+        "word": "Initially",
+        "উচ্চারণ": "ইনিশিয়ালি",
+        "bangla": "শুরুতে, প্রাথমিকভাবে",
+        "category": "Adverb",
+        "sentence": "Initially, the work was difficult.",
+        "sentenceBangla": "শুরুতে কাজটি কঠিন ছিল।"
+    },
+    {
+        "word": "Initiative",
+        "উচ্চারণ": "ইনিশিয়েটিভ",
+        "bangla": "উদ্যোগ",
+        "category": "Noun",
+        "sentence": "She took the initiative to start the project.",
+        "sentenceBangla": "তিনি প্রকল্পটি শুরু করার উদ্যোগ নেন।"
+    },
+    {
+        "word": "Injure",
+        "উচ্চারণ": "ইনজুর",
+        "bangla": "আহত করা, ক্ষতি করা",
+        "category": "Verb",
+        "sentence": "Be careful not to injure yourself.",
+        "sentenceBangla": "সতর্ক থাকুন যাতে নিজেকে আহত না করেন।"
+    },
+    {
+        "word": "Injured",
+        "উচ্চারণ": "ইনজুর্ড",
+        "bangla": "আহত",
+        "category": "Adjective",
+        "sentence": "The injured player left the field.",
+        "sentenceBangla": "আহত খেলোয়াড় মাঠ ছাড়লেন।"
+    },
+    {
+        "word": "Injury",
+        "উচ্চারণ": "ইনজুরি",
+        "bangla": "আঘাত, ক্ষত",
+        "category": "Noun",
+        "sentence": "He recovered from his leg injury.",
+        "sentenceBangla": "সে তার পায়ের আঘাত থেকে সেরে উঠেছে।"
+    },
+    {
+        "word": "Ink",
+        "উচ্চারণ": "ইঙ্ক",
+        "bangla": "কালি",
+        "category": "Noun",
+        "sentence": "My pen ran out of ink.",
+        "sentenceBangla": "আমার কলমের কালি শেষ হয়ে গেছে।"
+    },
+    {
+        "word": "Inmate",
+        "উচ্চারণ": "ইনমেট",
+        "bangla": "কয়েদি, অন্তেবাসী",
+        "category": "Noun",
+        "sentence": "The inmate was released yesterday.",
+        "sentenceBangla": "কয়েদিটিকে গতকাল মুক্তি দেওয়া হয়েছে।"
+    },
+    {
+        "word": "Inner",
+        "উচ্চারণ": "ইনার",
+        "bangla": "অভ্যন্তরীণ, ভেতরের",
+        "category": "Adjective",
+        "sentence": "Trust your inner voice.",
+        "sentenceBangla": "তোমার ভেতরের কণ্ঠস্বর বা বিবেককে বিশ্বাস করো।"
+    },
+    {
+        "word": "Innocent",
+        "উচ্চারণ": "ইনোসেন্ট",
+        "bangla": "নির্দোষ, নিষ্পাপ",
+        "category": "Adjective",
+        "sentence": "The court found him innocent.",
+        "sentenceBangla": "আদালত তাকে নির্দোষ ঘোষণা করেছে।"
+    },
+    {
+        "word": "Innovation",
+        "উচ্চারণ": "ইনোভেশন",
+        "bangla": "উদ্ভাবন, নতুনত্ব",
+        "category": "Noun",
+        "sentence": "Technology thrives on innovation.",
+        "sentenceBangla": "প্রযুক্তি উদ্ভাবনের ওপর ভর করে এগিয়ে চলে।"
+    },
+    {
+        "word": "Innovative",
+        "উচ্চারণ": "ইনোভেটিভ",
+        "bangla": "উদ্ভাবনী, নতুনত্বপূর্ণ",
+        "category": "Adjective",
+        "sentence": "This is an innovative product.",
+        "sentenceBangla": "এটি একটি উদ্ভাবনী পণ্য।"
+    },
+    {
+        "word": "Input",
+        "উচ্চারণ": "ইনপুট",
+        "bangla": "ইনপুট, প্রদত্ত তথ্য বা অবদান",
+        "category": "Noun",
+        "sentence": "We need your input on this plan.",
+        "sentenceBangla": "এই পরিকল্পনায় আমাদের আপনার মতামত বা অবদান প্রয়োজন।"
+    },
+    {
+        "word": "Inquiry",
+        "উচ্চারণ": "ইনকোয়ারি",
+        "bangla": "অনুসন্ধান, তদন্ত, জিজ্ঞাসাবাদ",
+        "category": "Noun",
+        "sentence": "The government ordered an inquiry.",
+        "sentenceBangla": "সরকার তদন্তের নির্দেশ দিয়েছে।"
+    },
+    {
+        "word": "Insect",
+        "উচ্চারণ": "ইনসেক্ট",
+        "bangla": "পোকা, পতঙ্গ",
+        "category": "Noun",
+        "sentence": "The bee is a useful insect.",
+        "sentenceBangla": "মৌমাছি একটি দরকারী পতঙ্গ।"
+    },
+    {
+        "word": "Inside",
+        "উচ্চারণ": "ইনসাইড",
+        "bangla": "ভেতরে, ভেতর দিকে",
+        "category": "Preposition, Adverb, Noun, Adjective",
+        "sentence": "Go inside the house.",
+        "sentenceBangla": "বাড়ির ভেতরে যাও।"
+    },
+    {
+        "word": "Insight",
+        "উচ্চারণ": "ইনসাইট",
+        "bangla": "অন্তর্দৃষ্টি, গভীর ধারণা",
+        "category": "Noun",
+        "sentence": "The book gives an insight into history.",
+        "sentenceBangla": "বইটি ইতিহাস সম্পর্কে গভীর ধারণা দেয়।"
+    },
+    {
+        "word": "Insist",
+        "উচ্চারণ": "ইনসিস্ট",
+        "bangla": "জিদ করা, জোর দেওয়া",
+        "category": "Verb",
+        "sentence": "I insist that you come with us.",
+        "sentenceBangla": "আমি জোর দিচ্ছি যে আপনি আমাদের সাথে আসুন।"
+    },
+    {
+        "word": "Inspire",
+        "উচ্চারণ": "ইনস্পায়ার",
+        "bangla": "অনুপ্রাণিত করা",
+        "category": "Verb",
+        "sentence": "Good teachers inspire students.",
+        "sentenceBangla": "ভালো শিক্ষকরা শিক্ষার্থীদের অনুপ্রাণিত করেন।"
+    },
+    {
+        "word": "Installation",
+        "উচ্চারণ": "ইনস্টলেশন",
+        "bangla": "স্থাপন, ইনস্টলেশন",
+        "category": "Noun",
+        "sentence": "The installation of the software is complete.",
+        "sentenceBangla": "সফটওয়্যারটির ইনস্টলেশন সম্পন্ন হয়েছে।"
+    },
+    {
+        "word": "Instance",
+        "উচ্চারণ": "ইনস্ট্যান্স",
+        "bangla": "দৃষ্টান্ত, উদাহরণ",
+        "category": "Noun",
+        "sentence": "For instance, look at this example.",
+        "sentenceBangla": "যেমন, এই উদাহরণটি দেখুন।"
+    },
+    {
+        "word": "Instant",
+        "উচ্চারণ": "ইনস্ট্যান্ট",
+        "bangla": "তাত্ক্ষণিক",
+        "category": "Adjective",
+        "sentence": "This coffee gives instant energy.",
+        "sentenceBangla": "এই কফি তাত্ক্ষণিক শক্তি দেয়।"
+    },
+    {
+        "word": "Instantly",
+        "উচ্চারণ": "ইনস্ট্যান্টলি",
+        "bangla": "তাত্ক্ষণিকভাবে",
+        "category": "Adverb",
+        "sentence": "He fell asleep instantly.",
+        "sentenceBangla": "সে তাত্ক্ষণিকভাবে ঘুমিয়ে পড়ল।"
+    },
+    {
+        "word": "Instead",
+        "উচ্চারণ": "ইনস্টেড",
+        "bangla": "পরিবর্তে",
+        "category": "Adverb",
+        "sentence": "Have tea instead of coffee.",
+        "sentenceBangla": "কফির পরিবর্তে চা খাও।"
+    },
+    {
+        "word": "Institute",
+        "উচ্চারণ": "ইনস্টিটিউট",
+        "bangla": "প্রতিষ্ঠান",
+        "category": "Noun",
+        "sentence": "He studies at a research institute.",
+        "sentenceBangla": "সে একটি গবেষণা প্রতিষ্ঠানে পড়াশোনা করে।"
+    },
+    {
+        "word": "Institution",
+        "উচ্চারণ": "ইনস্টিটিউশন",
+        "bangla": "প্রতিষ্ঠান, প্রথা",
+        "category": "Noun",
+        "sentence": "Marriage is a social institution.",
+        "sentenceBangla": "বিয়ে একটি সামাজিক প্রতিষ্ঠান।"
+    },
+    {
+        "word": "Institutional",
+        "উচ্চারণ": "ইনস্টিটিউশনাল",
+        "bangla": "প্রাতিষ্ঠানিক",
+        "category": "Adjective",
+        "sentence": "We receive institutional support.",
+        "sentenceBangla": "আমরা প্রাতিষ্ঠানিক সহায়তা পাই।"
+    },
+    {
+        "word": "Instruct",
+        "উচ্চারণ": "ইনস্ট্রাক্ট",
+        "bangla": "নির্দেশ দেওয়া, শিক্ষা দেওয়া",
+        "category": "Verb",
+        "sentence": "She instructed them to wait.",
+        "sentenceBangla": "সে তাদের অপেক্ষা করার নির্দেশ দিল।"
+    },
+    {
+        "word": "Instruction",
+        "উচ্চারণ": "ইনস্ট্রাকশন",
+        "bangla": "নির্দেশনা, শিক্ষা",
+        "category": "Noun",
+        "sentence": "Read the instructions carefully.",
+        "sentenceBangla": "নির্দেশনাগুলো সাবধানে পড়ো।"
+    },
+    {
+        "word": "Instructor",
+        "উচ্চারণ": "ইনস্ট্রাক্টর",
+        "bangla": "প্রশিক্ষক, শিক্ষক",
+        "category": "Noun",
+        "sentence": "The driving instructor was very patient.",
+        "sentenceBangla": "ড্রাইভিং প্রশিক্ষকটি খুব ধৈর্যশীল ছিলেন।"
+    },
+    {
+        "word": "Instrument",
+        "উচ্চারণ": "ইনস্ট্রুমেন্ট",
+        "bangla": "যন্ত্র, বাদ্যযন্ত্র",
+        "category": "Noun",
+        "sentence": "The guitar is a musical instrument.",
+        "sentenceBangla": "গিটার একটি বাদ্যযন্ত্র।"
+    },
+    {
+        "word": "Insult",
+        "উচ্চারণ": "ইনসাল্ট",
+        "bangla": "অপমান করা, অপমান",
+        "category": "Verb, Noun",
+        "sentence": "Do not insult anyone.",
+        "sentenceBangla": "কাউকে অপমান করো না।"
+    },
+    {
+        "word": "Insurance",
+        "উচ্চারণ": "ইনসুরেন্স",
+        "bangla": "বিমা",
+        "category": "Noun",
+        "sentence": "Do you have car insurance?",
+        "sentenceBangla": "আপনার কি গাড়ি বিমা আছে?"
+    },
+    {
+        "word": "Intact",
+        "উচ্চারণ": "ইনট্যাক্ট",
+        "bangla": "অক্ষত, আস্ত",
+        "category": "Adjective",
+        "sentence": "The package arrived intact.",
+        "sentenceBangla": "প্যাকেজটি অক্ষত অবস্থায় এসে পৌঁছেছে।"
+    },
+    {
+        "word": "Intake",
+        "উচ্চারণ": "ইনটেক",
+        "bangla": "গ্রহণ (খাদ্য বা পানীয়), অন্তর্ভুক্তি",
+        "category": "Noun",
+        "sentence": "You should reduce your salt intake.",
+        "sentenceBangla": "তোমার লবণ গ্রহণ কমানো উচিত।"
+    },
+    {
+        "word": "Integral",
+        "উচ্চারণ": "ইনটিগ্রাল",
+        "bangla": "অপরিহার্য, অবিচ্ছেদ্য অংশ",
+        "category": "Adjective",
+        "sentence": "Music is an integral part of his life.",
+        "sentenceBangla": "গান তার জীবনের একটি অবিচ্ছেদ্য অংশ।"
+    },
+    {
+        "word": "Integrate",
+        "উচ্চারণ": "ইনটিগ্রেট",
+        "bangla": "একীভূত করা, সমন্বয় করা",
+        "category": "Verb",
+        "sentence": "We plan to integrate the two systems.",
+        "sentenceBangla": "আমরা সিস্টেম দুটিকে একীভূত করার পরিকল্পনা করছি।"
+    },
+    {
+        "word": "Integrated",
+        "উচ্চারণ": "ইনটিগ্রেটেড",
+        "bangla": "একীভূত, সমন্বিত",
+        "category": "Adjective",
+        "sentence": "They work in an integrated system.",
+        "sentenceBangla": "তারা একটি সমন্বিত সিস্টেমে কাজ করে।"
+    },
+    {
+        "word": "Integration",
+        "উচ্চারণ": "ইনটিগ্রেশন",
+        "bangla": "একীকরণ, সমন্বয়",
+        "category": "Noun",
+        "sentence": "The integration of technology is necessary.",
+        "sentenceBangla": "প্রযুক্তির একীকরণ বা সমন্বয় প্রয়োজন।"
+    },
+    {
+        "word": "Integrity",
+        "উচ্চারণ": "ইনটিগ্রিটি",
+        "bangla": "সততা, অখণ্ডতা",
+        "category": "Noun",
+        "sentence": "He is a man of integrity.",
+        "sentenceBangla": "তিনি একজন সৎ মানুষ।"
+    },
+    {
+        "word": "Intellectual",
+        "উচ্চারণ": "ইনটেলেকচুয়াল",
+        "bangla": "বুদ্ধিবৃত্তিক, বুদ্ধিমান, বুদ্ধিজীবী",
+        "category": "Adjective, Noun",
+        "sentence": "Chess is an intellectual game.",
+        "sentenceBangla": "দাবা একটি বুদ্ধিবৃত্তিক খেলা।"
+    },
+    {
+        "word": "Intelligence",
+        "উচ্চারণ": "ইনটেলিজেন্স",
+        "bangla": "বুদ্ধিমত্তা, গোয়েন্দা তথ্য",
+        "category": "Noun",
+        "sentence": "Artificial intelligence is developing fast.",
+        "sentenceBangla": "কৃত্রিম বুদ্ধিমত্তা দ্রুত বিকশিত হচ্ছে।"
+    },
+    {
+        "word": "Intelligent",
+        "উচ্চারণ": "ইনটেলিজেন্ট",
+        "bangla": "বুদ্ধিমান",
+        "category": "Adjective",
+        "sentence": "She is an intelligent student.",
+        "sentenceBangla": "সে একজন বুদ্ধিমান ছাত্রী।"
+    },
+    {
+        "word": "Intend",
+        "উচ্চারণ": "ইনটেন্ড",
+        "bangla": "মনস্থ করা, ইচ্ছা করা",
+        "category": "Verb",
+        "sentence": "I intend to visit London next year.",
+        "sentenceBangla": "আমি আগামী বছর লন্ডন সফরের মনস্থ করেছি।"
+    },
+    {
+        "word": "Intended",
+        "উচ্চারণ": "ইনটেন্ডেড",
+        "bangla": "অভিপ্রেত, লক্ষ্যবস্তু",
+        "category": "Adjective",
+        "sentence": "This book is intended for children.",
+        "sentenceBangla": "এই বইটি শিশুদের জন্য তৈরি বা অভিপ্রেত।"
+    },
+    {
+        "word": "Intense",
+        "উচ্চারণ": "ইনটেন্স",
+        "bangla": "তীব্র, প্রখর",
+        "category": "Adjective",
+        "sentence": "The heat was intense.",
+        "sentenceBangla": "তাপ তীব্র ছিল।"
+    },
+    {
+        "word": "Intensity",
+        "উচ্চারণ": "ইনটেনসিটি",
+        "bangla": "তীব্রতা, প্রখরতা",
+        "category": "Noun",
+        "sentence": "The storm increased in intensity.",
+        "sentenceBangla": "ঝড়ের তীব্রতা বৃদ্ধি পেয়েছে।"
+    },
+    {
+        "word": "Intensive",
+        "উচ্চারণ": "ইনটেনসিভ",
+        "bangla": "নিবিড়, নিবিড় যত্নশীল",
+        "category": "Adjective",
+        "sentence": "He is in the intensive care unit.",
+        "sentenceBangla": "তিনি নিবিড় পরিচর্যা কেন্দ্রে (ICU) আছেন।"
+    },
+    {
+        "word": "Intent",
+        "উচ্চারণ": "ইনটেন্ট",
+        "bangla": "অভিপ্রায়, উদ্দেশ্য",
+        "category": "Noun",
+        "sentence": "His intent was clear.",
+        "sentenceBangla": "তার উদ্দেশ্য স্পষ্ট ছিল।"
+    },
+    {
+        "word": "Intention",
+        "উচ্চারণ": "ইনটেনশন",
+        "bangla": "ইচ্ছা, উদ্দেশ্য",
+        "category": "Noun",
+        "sentence": "I have no intention of hurting you.",
+        "sentenceBangla": "তোমাকে কষ্ট দেওয়ার কোনো উদ্দেশ্য আমার নেই।"
+    },
+    {
+        "word": "Interact",
+        "উচ্চারণ": "ইন্টারঅ্যাক্ট",
+        "bangla": "পরস্পর ক্রিয়া করা, যোগাযোগ করা",
+        "category": "Verb",
+        "sentence": "Teachers should interact with students.",
+        "sentenceBangla": "শিক্ষকদের শিক্ষার্থীদের সাথে যোগাযোগ করা উচিত।"
+    },
+    {
+        "word": "Interaction",
+        "উচ্চারণ": "ইন্টারঅ্যাকশন",
+        "bangla": "পরস্পরক্রিয়া, মিথস্ক্রিয়া",
+        "category": "Noun",
+        "sentence": "Social interaction is important for kids.",
+        "sentenceBangla": "শিশুদের জন্য সামাজিক যোগাযোগ বা মেলামেশা গুরুত্বপূর্ণ।"
+    },
+    {
+        "word": "Interactive",
+        "উচ্চারণ": "ইন্টারঅ্যাক্টিভ",
+        "bangla": "মিথস্ক্রিয়ামূলক, ইন্টারেক্টিভ",
+        "category": "Adjective",
+        "sentence": "The website has interactive features.",
+        "sentenceBangla": "ওয়েবসাইটটিতে ইন্টারেক্টিভ বৈশিষ্ট্য রয়েছে।"
+    },
+    {
+        "word": "Interest",
+        "উচ্চারণ": "ইন্টারেস্ট",
+        "bangla": "আগ্রহ, সুদ, আগ্রহ জাগানো",
+        "category": "Noun, Verb",
+        "sentence": "He has an interest in history.",
+        "sentenceBangla": "ইতিহাসে তার আগ্রহ আছে।"
+    },
+    {
+        "word": "Interested",
+        "উচ্চারণ": "ইন্টারেস্টেড",
+        "bangla": "আগ্রহী",
+        "category": "Adjective",
+        "sentence": "Are you interested in music?",
+        "sentenceBangla": "আপনি কি সংগীতে আগ্রহী?"
+    },
+    {
+        "word": "Interesting",
+        "উচ্চারণ": "ইন্টারেস্টিং",
+        "bangla": "আকর্ষণীয়, মজাদার",
+        "category": "Adjective",
+        "sentence": "This is an interesting story.",
+        "sentenceBangla": "এটি একটি চমৎকার বা মজাদার গল্প।"
+    },
+    {
+        "word": "Interface",
+        "উচ্চারণ": "ইন্টারফেস",
+        "bangla": "ইন্টারফেস, সংযোগস্থল",
+        "category": "Noun",
+        "sentence": "The software has a user-friendly interface.",
+        "sentenceBangla": "সফটওয়্যারটির ইন্টারফেস ব্যবহারকারী-বান্ধব।"
+    },
+    {
+        "word": "Interfere",
+        "উচ্চারণ": "ইন্টারফিয়ার",
+        "bangla": "হস্তক্ষেপ করা",
+        "category": "Verb",
+        "sentence": "Do not interfere in my business.",
+        "sentenceBangla": "আমার ব্যাপারে হস্তক্ষেপ করো না।"
+    },
+    {
+        "word": "Interference",
+        "উচ্চারণ": "ইন্টারফিয়ারেন্স",
+        "bangla": "হস্তক্ষেপ, বাধা",
+        "category": "Noun",
+        "sentence": "I cannot tolerate this interference.",
+        "sentenceBangla": "আমি এই হস্তক্ষেপ সহ্য করতে পারছি না।"
+    },
+    {
+        "word": "Interior",
+        "উচ্চারণ": "ইন্টেরিয়র",
+        "bangla": "অভ্যন্তরীণ, ভেতরের অংশ",
+        "category": "Noun, Adjective",
+        "sentence": "The interior of the house is beautiful.",
+        "sentenceBangla": "বাড়ির ভেতরের অংশটি সুন্দর।"
+    },
+    {
+        "word": "Intermediate",
+        "উচ্চারণ": "ইন্টারমিডিয়েট",
+        "bangla": "মধ্যবর্তী, মাঝারি স্তরের",
+        "category": "Adjective",
+        "sentence": "This is an intermediate English course.",
+        "sentenceBangla": "এটি একটি মাঝারি স্তরের ইংরেজি কোর্স।"
+    },
+    {
+        "word": "Internal",
+        "উচ্চারণ": "ইন্টারনাল",
+        "bangla": "অভ্যন্তরীণ, ভেতরের",
+        "category": "Adjective",
+        "sentence": "He died of internal bleeding.",
+        "sentenceBangla": "তিনি অভ্যন্তরীণ রক্তক্ষরণের কারণে মারা যান।"
+    },
+    {
+        "word": "International",
+        "উচ্চারণ": "ইন্টারন্যাশনাল",
+        "bangla": "আন্তর্জাতিক",
+        "category": "Adjective",
+        "sentence": "Football is an international sport.",
+        "sentenceBangla": "ফুটবল একটি আন্তর্জাতিক খেলা।"
+    },
+    {
+        "word": "Internet",
+        "উচ্চারণ": "ইন্টারনেট",
+        "bangla": "ইন্টারনেট",
+        "category": "Noun",
+        "sentence": "I use the internet for studying.",
+        "sentenceBangla": "আমি পড়াশোনার জন্য ইন্টারনেট ব্যবহার করি।"
+    },
+    {
+        "word": "Interpret",
+        "উচ্চারণ": "ইন্টারপ্রেট",
+        "bangla": "ব্যাখ্যা করা, অনুবাদ করা",
+        "category": "Verb",
+        "sentence": "Can you interpret this poem?",
+        "sentenceBangla": "আপনি কি এই কবিতাটি ব্যাখ্যা করতে পারেন?"
+    },
+    {
+        "word": "Interpretation",
+        "উচ্চারণ": "ইন্টারপ্রিটেশন",
+        "bangla": "ব্যাখ্যা, অর্থ",
+        "category": "Noun",
+        "sentence": "Everyone has a different interpretation.",
+        "sentenceBangla": "সবারই ভিন্ন ভিন্ন ব্যাখ্যা থাকে।"
+    },
+    {
+        "word": "Interval",
+        "উচ্চারণ": "ইন্টারভাল",
+        "bangla": "বিরতি, মধ্যবর্তী সময়",
+        "category": "Noun",
+        "sentence": "There is a short interval after the first act.",
+        "sentenceBangla": "প্রথম অঙ্কের পর একটি ছোট বিরতি আছে।"
+    },
+    {
+        "word": "Intervene",
+        "উচ্চারণ": "ইন্টারভিন",
+        "bangla": "হস্তক্ষেপ করা, মধ্যস্থতা করা",
+        "category": "Verb",
+        "sentence": "The police had to intervene.",
+        "sentenceBangla": "পুলিশকে হস্তক্ষেপ করতে হয়েছিল।"
+    },
+    {
+        "word": "Intervention",
+        "উচ্চারণ": "ইন্টারভেনশন",
+        "bangla": "হস্তক্ষেপ, মধ্যস্থতা",
+        "category": "Noun",
+        "sentence": "Government intervention solved the strike.",
+        "sentenceBangla": "সরকারি হস্তক্ষেপের ফলে ধর্মঘট সমাধান হয়।"
+    },
+    {
+        "word": "Interview",
+        "উচ্চারণ": "ইন্টারভিউ",
+        "bangla": "সাক্ষাৎকার, সাক্ষাৎকার নেওয়া",
+        "category": "Noun, Verb",
+        "sentence": "He passed the job interview.",
+        "sentenceBangla": "সে চাকরির সাক্ষাৎকারে পাস করেছে।"
+    },
+    {
+        "word": "Intimate",
+        "উচ্চারণ": "ইনটিমেট",
+        "bangla": "ঘনিষ্ঠ, অন্তরঙ্গ",
+        "category": "Adjective",
+        "sentence": "They are intimate friends.",
+        "sentenceBangla": "তারা অন্তরঙ্গ বন্ধু।"
+    },
+    {
+        "word": "Into",
+        "উচ্চারণ": "ইনটু",
+        "bangla": "ভেতরে, মধ্যে",
+        "category": "Preposition",
+        "sentence": "Walk into the room.",
+        "sentenceBangla": "ঘরের ভেতরে হেঁটে যাও।"
+    },
+    {
+        "word": "Intrigue",
+        "উচ্চারণ": "ইনট্রিগ",
+        "bangla": "কৌতূহল জাগানো, চক্রান্ত করা",
+        "category": "Verb",
+        "sentence": "The mystery continues to intrigue me.",
+        "sentenceBangla": "রহস্যটি আমার মনে কৌতূহল জাগিয়ে চলেছে।"
+    },
+    {
+        "word": "Introduce",
+        "উচ্চারণ": "ইনট্রোডিউস",
+        "bangla": "পরিচয় করিয়ে দেওয়া",
+        "category": "Verb",
+        "sentence": "Let me introduce my friend.",
+        "sentenceBangla": "আমাকে আমার বন্ধুর সাথে পরিচয় করিয়ে দিতে দিন।"
+    },
+    {
+        "word": "Introduction",
+        "উচ্চারণ": "ইনট্রোডাকশন",
+        "bangla": "ভূমিকা, পরিচিতি",
+        "category": "Noun",
+        "sentence": "Read the introduction of the book.",
+        "sentenceBangla": "বইটির ভূমিকাটি পড়ুন।"
+    },
+    {
+        "word": "Invade",
+        "উচ্চারণ": "ইনভেড",
+        "bangla": "আক্রমণ করা, আক্রমণ চালিয়ে প্রবেশ করা",
+        "category": "Verb",
+        "sentence": "The army tried to invade the country.",
+        "sentenceBangla": "সেনাবাহিনী দেশটি আক্রমণ করার চেষ্টা করেছিল।"
+    },
+    {
+        "word": "Invasion",
+        "উচ্চারণ": "ইনভেশন",
+        "bangla": "আক্রমণ, অনুপ্রবেশ",
+        "category": "Noun",
+        "sentence": "The invasion caused widespread panic.",
+        "sentenceBangla": "আক্রমণটি ব্যাপক আতঙ্ক সৃষ্টি করেছিল।"
+    },
+    {
+        "word": "Invent",
+        "উচ্চারণ": "ইনভেন্ট",
+        "bangla": "আবিষ্কার করা, উদ্ভাবন করা",
+        "category": "Verb",
+        "sentence": "Who invented the telephone?",
+        "sentenceBangla": "টেলিফোন কে আবিষ্কার করেন?"
+    },
+    {
+        "word": "Invention",
+        "উচ্চারণ": "ইনভেনশন",
+        "bangla": "আবিষ্কার, উদ্ভাবন",
+        "category": "Noun",
+        "sentence": "The wheel is a great invention.",
+        "sentenceBangla": "চাকা একটি মহান আবিষ্কার।"
+    },
+    {
+        "word": "Invest",
+        "উচ্চারণ": "ইনভেস্ট",
+        "bangla": "বিনিয়োগ করা",
+        "category": "Verb",
+        "sentence": "He wants to invest in real estate.",
+        "sentenceBangla": "সে আবাসন খাতে বিনিয়োগ করতে চায়।"
+    },
+    {
+        "word": "Investigate",
+        "উচ্চারণ": "ইনভেস্টিগেট",
+        "bangla": "তদন্ত করা, অনুসন্ধান করা",
+        "category": "Verb",
+        "sentence": "The detective will investigate the case.",
+        "sentenceBangla": "ডিটেকটিভ মামলাটি তদন্ত করবেন।"
+    },
+    {
+        "word": "Investigation",
+        "উচ্চারণ": "ইনভেস্টিগেশন",
+        "bangla": "তদন্ত, অনুসন্ধান",
+        "category": "Noun",
+        "sentence": "The investigation is still ongoing.",
+        "sentenceBangla": "তদন্ত এখনো চলছে।"
+    },
+    {
+        "word": "Investigator",
+        "উচ্চারণ": "ইনভেস্টিগেটর",
+        "bangla": "তদন্তকারী, অন্বেষক",
+        "category": "Noun",
+        "sentence": "The investigator found new clues.",
+        "sentenceBangla": "তদন্তকারী নতুন সূত্র পেয়েছেন।"
+    },
+    {
+        "word": "Investment",
+        "উচ্চারণ": "ইনভেস্টমেন্ট",
+        "bangla": "বিনিয়োগ",
+        "category": "Noun",
+        "sentence": "This is a profitable investment.",
+        "sentenceBangla": "এটি একটি লাভজনক বিনিয়োগ।"
+    },
+    {
+        "word": "Investor",
+        "উচ্চারণ": "ইনভেস্টর",
+        "bangla": "বিনিয়োগকারী",
+        "category": "Noun",
+        "sentence": "Foreign investors are welcome here.",
+        "sentenceBangla": "এখানে বিদেশী বিনিয়োগকারীদের স্বাগত জানানো হয়।"
+    },
+    {
+        "word": "Invisible",
+        "উচ্চারণ": "ইনভিজিবল",
+        "bangla": "অদৃশ্য",
+        "category": "Adjective",
+        "sentence": "Air is invisible.",
+        "sentenceBangla": "বাতাস অদৃশ্য।"
+    },
+    {
+        "word": "Invitation",
+        "উচ্চারণ": "ইনভিটেশন",
+        "bangla": "আমন্ত্রণ, দাওয়াত",
+        "category": "Noun",
+        "sentence": "Thank you for the invitation.",
+        "sentenceBangla": "আমন্ত্রণের জন্য আপনাকে ধন্যবাদ।"
+    },
+    {
+        "word": "Invite",
+        "উচ্চারণ": "ইনভাইট",
+        "bangla": "আমন্ত্রণ জানানো, দাওয়াত দেওয়া",
+        "category": "Verb",
+        "sentence": "We should invite them to the party.",
+        "sentenceBangla": "আমাদের তাদের পার্টিতে আমন্ত্রণ জানানো উচিত।"
+    },
+    {
+        "word": "Invoke",
+        "উচ্চারণ": "ইনভোক",
+        "bangla": "আহ্বান করা, প্রয়োগ করা",
+        "category": "Verb",
+        "sentence": "They tried to invoke the law.",
+        "sentenceBangla": "তারা আইনটি প্রয়োগ বা আহ্বান করার চেষ্টা করেছিল।"
+    },
+    {
+        "word": "Involve",
+        "উচ্চারণ": "ইনভলভ",
+        "bangla": "জড়িত করা, অন্তর্ভুক্ত করা",
+        "category": "Verb",
+        "sentence": "The project will involve a lot of work.",
+        "sentenceBangla": "প্রকল্পটিতে অনেক কাজ অন্তর্ভুক্ত থাকবে।"
+    },
+    {
+        "word": "Involved",
+        "উচ্চারণ": "ইনভলভড",
+        "bangla": "জড়িত, সংশ্লিষ্ট",
+        "category": "Adjective",
+        "sentence": "He is involved in sports.",
+        "sentenceBangla": "সে খেলাধুলার সাথে জড়িত।"
+    },
+    {
+        "word": "Involvement",
+        "উচ্চারণ": "ইনভলভমেন্ট",
+        "bangla": "সংশ্লিষ্টতা, সম্পৃক্ততা",
+        "category": "Noun",
+        "sentence": "Her involvement in the drama was minimal.",
+        "sentenceBangla": "নাটকে তার সম্পৃক্ততা ছিল খুবই কম।"
+    },
+    {
+        "word": "Iron",
+        "উচ্চারণ": "আয়রন",
+        "bangla": "লোহা, ইস্ত্রি করা",
+        "category": "Noun, Verb",
+        "sentence": "Iron is a strong metal.",
+        "sentenceBangla": "লোহা একটি শক্ত ধাতু।"
+    },
+    {
+        "word": "Irony",
+        "উচ্চারণ": "আয়রনি",
+        "bangla": "ব্যঙ্গোক্তি, পরিহাস",
+        "category": "Noun",
+        "sentence": "There is a tragic irony in this situation.",
+        "sentenceBangla": "এই পরিস্থিতিতে একটি করুণ পরিহাস রয়েছে।"
+    },
+    {
+        "word": "Irrelevant",
+        "উচ্চারণ": "ইরেলিভ্যান্ট",
+        "bangla": "অপ্রাসঙ্গিক",
+        "category": "Adjective",
+        "sentence": "That detail is irrelevant to our topic.",
+        "sentenceBangla": "ঐ তথ্যটি আমাদের বিষয়ের জন্য অপ্রাসঙ্গিক।"
+    },
+    {
+        "word": "Island",
+        "উচ্চারণ": "আইল্যান্ড",
+        "bangla": "দ্বীপ",
+        "category": "Noun",
+        "sentence": "They spent their holiday on an island.",
+        "sentenceBangla": "তারা দ্বীপে তাদের ছুটি কাটিয়েছে।"
+    },
+    {
+        "word": "Isolate",
+        "উচ্চারণ": "আইসোলেট",
+        "bangla": "বিচ্ছিন্ন করা, আলাদা করা",
+        "category": "Verb",
+        "sentence": "Patients were told to isolate themselves.",
+        "sentenceBangla": "রোগীদের নিজেদেরকে আলাদা বা বিচ্ছিন্ন রাখতে বলা হয়েছিল।"
+    },
+    {
+        "word": "Isolated",
+        "উচ্চারণ": "আইসোলেটেড",
+        "bangla": "বিচ্ছিন্ন, একাকী",
+        "category": "Adjective",
+        "sentence": "The village is isolated from the city.",
+        "sentenceBangla": "গ্রামটি শহর থেকে বিচ্ছিন্ন।"
+    },
+    {
+        "word": "Isolation",
+        "উচ্চারণ": "আইসোলেশন",
+        "bangla": "বিচ্ছিন্নতা, একাকীত্ব",
+        "category": "Noun",
+        "sentence": "He preferred to live in isolation.",
+        "sentenceBangla": "তিনি একাকীত্বে বা বিচ্ছিন্ন থাকতে পছন্দ করতেন।"
+    },
+    {
+        "word": "Issue",
+        "উচ্চারণ": "ইস্যু",
+        "bangla": "বিষয়, সমস্যা, জারি করা",
+        "category": "Noun, Verb",
+        "sentence": "Global warming is a serious issue.",
+        "sentenceBangla": "বৈশ্বিক উষ্ণায়ন একটি গুরুতর সমস্যা।"
+    },
+    {
+        "word": "It",
+        "উচ্চারণ": "ইট",
+        "bangla": "এটি, এটা, ইহা",
+        "category": "Pronoun",
+        "sentence": "It is raining outside.",
+        "sentenceBangla": "বাইরে বৃষ্টি হচ্ছে।"
+    },
+    {
+        "word": "Item",
+        "উচ্চারণ": "আইটেম",
+        "bangla": "জিনিস, দফা",
+        "category": "Noun",
+        "sentence": "There is only one item left in the shop.",
+        "sentenceBangla": "দোকানে মাত্র একটি জিনিস বাকি আছে।"
+    },
+    {
+        "word": "Its",
+        "উচ্চারণ": "ইটস",
+        "bangla": "এর, ইহার",
+        "category": "Determiner",
+        "sentence": "The cat licked its paw.",
+        "sentenceBangla": "বিড়ালটি তার থাবা চাটলো।"
+    },
+    {
+        "word": "Itself",
+        "উচ্চারণ": "ইটসেলফ",
+        "bangla": "নিজে, এটি নিজে",
+        "category": "Pronoun",
+        "sentence": "The problem solved itself.",
+        "sentenceBangla": "সমস্যাটি নিজেই সমাধান হয়ে গেছে।"
+    },
+    {
+        "word": "Jacket",
+        "উচ্চারণ": "জ্যাকেট",
+        "bangla": "জ্যাকেট",
+        "category": "Noun",
+        "sentence": "He wore a blue jacket.",
+        "sentenceBangla": "সে একটি নীল জ্যাকেট পরেছিল।"
+    },
+    {
+        "word": "Jail",
+        "উচ্চারণ": "জেল",
+        "bangla": "কারাগার, জেল",
+        "category": "Noun, Verb",
+        "sentence": "The thief was sent to jail.",
+        "sentenceBangla": "চোরটিকে জেলে পাঠানো হয়েছে।"
+    },
+    {
+        "word": "Jam",
+        "উচ্চারণ": "জ্যাম",
+        "bangla": "জ্যাম (খাদ্য), জটলা",
+        "category": "Noun (traffic/food)",
+        "sentence": "We got stuck in a traffic jam.",
+        "sentenceBangla": "আমরা ট্রাফিক জ্যামে আটকে গিয়েছিলাম।"
+    },
+    {
+        "word": "January",
+        "উচ্চারণ": "জানুয়ারি",
+        "bangla": "জানুয়ারি",
+        "category": "Noun",
+        "sentence": "January is the first month of the year.",
+        "sentenceBangla": "জানুয়ারি বছরের প্রথম মাস।"
+    },
+    {
+        "word": "Jazz",
+        "উচ্চারণ": "জ্যাজ",
+        "bangla": "জ্যাজ (এক ধরণের সঙ্গীত)",
+        "category": "Noun",
+        "sentence": "She loves listening to jazz.",
+        "sentenceBangla": "সে জ্যাজ সঙ্গীত শুনতে ভালোবাসে।"
+    },
+    {
+        "word": "Jeans",
+        "উচ্চারণ": "জিন্স",
+        "bangla": "জিন্স প্যান্ট",
+        "category": "Noun",
+        "sentence": "He bought a new pair of jeans.",
+        "sentenceBangla": "সে একজোড়া নতুন জিন্স কিনেছে।"
+    },
+    {
+        "word": "Jet",
+        "উচ্চারণ": "জেট",
+        "bangla": "জেট বিমান",
+        "category": "Noun",
+        "sentence": "The private jet took off.",
+        "sentenceBangla": "ব্যক্তিগত জেট বিমানটি উড্ডয়ন করলো।"
+    },
+    {
+        "word": "Jewellery",
+        "উচ্চারণ": "জুয়েলারি",
+        "bangla": "গহনা, অলংকার",
+        "category": "Noun",
+        "sentence": "She wears beautiful jewellery.",
+        "sentenceBangla": "সে সুন্দর গহনা পরে।"
+    },
+    {
+        "word": "Job",
+        "উচ্চারণ": "জব",
+        "bangla": "চাকরি, কাজ",
+        "category": "Noun",
+        "sentence": "He is looking for a new job.",
+        "sentenceBangla": "সে একটি নতুন চাকরি খুঁজছে।"
+    },
+    {
+        "word": "Join",
+        "উচ্চারণ": "জয়েন",
+        "bangla": "যোগদান করা, যুক্ত হওয়া",
+        "category": "Verb",
+        "sentence": "Would you like to join us?",
+        "sentenceBangla": "আপনি কি আমাদের সাথে যোগ দিতে চান?"
+    },
+    {
+        "word": "Joint",
+        "উচ্চারণ": "জয়েন্ট",
+        "bangla": "যৌথ, সংযোগস্থল, গাঁট",
+        "category": "Adjective, Noun",
+        "sentence": "They made a joint decision.",
+        "sentenceBangla": "তারা একটি যৌথ সিদ্ধান্ত নিয়েছে।"
+    },
+    {
+        "word": "Joke",
+        "উচ্চারণ": "জোক",
+        "bangla": "কৌতুক করা, কৌতুক",
+        "category": "Noun, Verb",
+        "sentence": "He told a funny joke.",
+        "sentenceBangla": "সে একটি মজার কৌতুক বলল।"
+    },
+    {
+        "word": "Journal",
+        "উচ্চারণ": "জার্নাল",
+        "bangla": "সাময়িকী, জার্নাল, ডায়েরি",
+        "category": "Noun",
+        "sentence": "He publishes a scientific journal.",
+        "sentenceBangla": "তিনি একটি বৈজ্ঞানিক জার্নাল প্রকাশ করেন।"
+    },
+    {
+        "word": "Journalism",
+        "উচ্চারণ": "জার্নালিজম",
+        "bangla": "সাংবাদিকতা",
+        "category": "Noun",
+        "sentence": "She wants to study journalism.",
+        "sentenceBangla": "সে সাংবাদিকতা নিয়ে পড়তে চায়।"
+    },
+    {
+        "word": "Journalist",
+        "উচ্চারণ": "জার্নালিস্ট",
+        "bangla": "সাংবাদিক",
+        "category": "Noun",
+        "sentence": "The journalist asked a question.",
+        "sentenceBangla": "সাংবাদিক একটি প্রশ্ন জিজ্ঞাসা করলেন।"
+    },
+    {
+        "word": "Journey",
+        "উচ্চারণ": "জার্নি",
+        "bangla": "ভ্রমণ, যাত্রা",
+        "category": "Noun",
+        "sentence": "Have a safe journey.",
+        "sentenceBangla": "আপনার যাত্রা নিরাপদ হোক।"
+    },
+    {
+        "word": "Joy",
+        "উচ্চারণ": "জয়",
+        "bangla": "আনন্দ, উল্লাস",
+        "category": "Noun",
+        "sentence": "The children were shouting with joy.",
+        "sentenceBangla": "শিশুরা আনন্দে চিৎকার করছিল।"
+    },
+    {
+        "word": "Judge",
+        "উচ্চারণ": "জাজ",
+        "bangla": "বিচারক, বিচার করা",
+        "category": "Noun, Verb",
+        "sentence": "The judge listened to the case.",
+        "sentenceBangla": "বিচারক মামলাটি শুনলেন।"
+    },
+    {
+        "word": "Judgement",
+        "উচ্চারণ": "জাজমেন্ট",
+        "bangla": "রায়, বিচারবুদ্ধি",
+        "category": "Noun",
+        "sentence": "Trust your own judgement.",
+        "sentenceBangla": "তোমার নিজের বিচারবুদ্ধির ওপর আস্থা রাখো।"
+    },
+    {
+        "word": "Judicial",
+        "উচ্চারণ": "জুডিশিয়াল",
+        "bangla": "বিচারবিভাগীয়, বিচারসংক্রান্ত",
+        "category": "Adjective",
+        "sentence": "We respect the judicial system.",
+        "sentenceBangla": "আমরা বিচারব্যবস্থাকে শ্রদ্ধা করি।"
+    },
+    {
+        "word": "Juice",
+        "উচ্চারণ": "জুস",
+        "bangla": "রস, জুস",
+        "category": "Noun",
+        "sentence": "Orange juice is good for health.",
+        "sentenceBangla": "কমলার রস স্বাস্থ্যের জন্য ভালো।"
+    },
+    {
+        "word": "July",
+        "উচ্চারণ": "জুলাই",
+        "bangla": "জুলাই",
+        "category": "Noun",
+        "sentence": "Schools reopen in July.",
+        "sentenceBangla": "জুলাই মাসে স্কুলগুলো আবার খোলে।"
+    },
+    {
+        "word": "Jump",
+        "উচ্চারণ": "জাম্প",
+        "bangla": "লাফ দেওয়া, লাফ",
+        "category": "Verb, Noun",
+        "sentence": "The cat can jump high.",
+        "sentenceBangla": "বিড়ালটি উঁচুতে লাফ দিতে পারে।"
+    },
+    {
+        "word": "June",
+        "উচ্চারণ": "জুন",
+        "bangla": "জুন",
+        "category": "Noun",
+        "sentence": "June is the sixth month of the year.",
+        "sentenceBangla": "জুন বছরের ষষ্ঠ মাস।"
+    },
+    {
+        "word": "Junior",
+        "উচ্চারণ": "জুনিয়র",
+        "bangla": "কনিষ্ঠ, অনুজ",
+        "category": "Adjective, Noun",
+        "sentence": "He is junior to me in the office.",
+        "sentenceBangla": "সে অফিসে আমার চেয়ে কনিষ্ঠ বা জুনিয়র।"
+    },
+    {
+        "word": "Jurisdiction",
+        "উচ্চারণ": "জুরিসডিকশন",
+        "bangla": "এখতিয়ার, বিচারসীমা",
+        "category": "Noun",
+        "sentence": "This matter falls under court jurisdiction.",
+        "sentenceBangla": "এই বিষয়টি আদালতের এখতিয়ারের মধ্যে পড়ে।"
+    },
+    {
+        "word": "Jury",
+        "উচ্চারণ": "জুরি",
+        "bangla": "জুরি, বিচারকদল",
+        "category": "Noun",
+        "sentence": "The jury found him guilty.",
+        "sentenceBangla": "বিচারকদল তাকে দোষী সাব্যস্ত করেছে।"
+    },
+    {
+        "word": "Just",
+        "উচ্চারণ": "জাস্ট",
+        "bangla": "শুধু, মাত্র, এইমাত্র, ঠিক",
+        "category": "Adverb, Adjective",
+        "sentence": "I have just finished my dinner.",
+        "sentenceBangla": "আমি এইমাত্র আমার রাতের খাবার শেষ করেছি।"
+    },
+    {
+        "word": "Justice",
+        "উচ্চারণ": "জাস্টিস",
+        "bangla": "ন্যায়বিচার, সুবিচার",
+        "category": "Noun",
+        "sentence": "We want justice for the victims.",
+        "sentenceBangla": "আমরা ভুক্তভোগীদের জন্য ন্যায়বিচার চাই।"
+    },
+    {
+        "word": "Justification",
+        "উচ্চারণ": "জাস্টিফিকেশন",
+        "bangla": "যৌক্তিকতা, সমর্থন",
+        "category": "Noun",
+        "sentence": "There is no justification for violence.",
+        "sentenceBangla": "সহিংসতার কোনো যৌক্তিকতা নেই।"
+    },
+    {
+        "word": "Justify",
+        "উচ্চারণ": "জাস্টিফাই",
+        "bangla": "ন্যায্য প্রমাণ করা, সঠিকতা দেখানো",
+        "category": "Verb",
+        "sentence": "How can you justify your absence?",
+        "sentenceBangla": "আপনি কীভাবে আপনার অনুপস্থিতিকে ন্যায্য প্রমাণ করবেন?"
     }
 ]
